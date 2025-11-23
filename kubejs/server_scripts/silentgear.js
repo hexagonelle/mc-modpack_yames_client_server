@@ -62,18 +62,22 @@ ServerEvents.tags('item', event => {
 
 	swordsList.forEach(sword => {
 		addToolToTag(sword,"minecraft:swords",event)
+		addToolToTag(sword,"forge:tools/swords",event)
 	})
 
 	pickaxesList.forEach(pickaxe => {
 		addToolToTag(pickaxe,"minecraft:pickaxes",event)
+		addToolToTag(pickaxe,"forge:tools/pickaxes",event)
 	})
 
 	axesList.forEach(axe => {
 		addToolToTag(axe,"minecraft:axes",event)
+		addToolToTag(axe,"forge:tools/axes",event)
 	})
 
 	shovelsList.forEach(shovel => {
 		addToolToTag(shovel,"minecraft:shovels",event)
+		addToolToTag(shovel,"forge:tools/shovels",event)
 	})
 
 	hoesList.forEach(hoe => {
