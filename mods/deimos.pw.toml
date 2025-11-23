@@ -1,13 +1,13 @@
 name = "Deimos"
-filename = "deimos-1.20.1-forge-2.4.jar"
+filename = "deimos-1.20.1-forge-2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/Ggc26XfC/deimos-1.20.1-forge-2.4.jar"
+url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/OBaYPNQL/deimos-1.20.1-forge-2.5.jar"
 hash-format = "sha512"
-hash = "348cf7b5f3f7e79ef8c9ff2b2028b2daa4e01e2c7c01e4c8fd5f5cbb176df7c78339a35e28c3c32bf52b583193f59d77928282903ddecf286a8b639883bef2b6"
+hash = "99c7b8445c2fa406c2bbb826d02c5a51199f27d12367fa06bb567101415b864de49ff6e9caf2475e99b816110873f58a020cfddf250110d4d216085ef450bbbe"
 
 [update]
 [update.modrinth]
 mod-id = "WQaxNzFg"
-version = "Ggc26XfC"
+version = "OBaYPNQL"

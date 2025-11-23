@@ -1,0 +1,13 @@
+name = "Spice of Life: Valheim Reforged"
+filename = "sol_valheim_reforged-1.1.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TYHpvAhl/versions/c7Kk16eW/sol_valheim_reforged-1.1.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "ec2705ea162403a9ec89d0ddb9753bfa609ed686fd659ea66bb5514669bf29e83bc735e29bc9879f1d5a8a28b689577a80e58e7f8f088cca8fe8cc14b93182a3"
+
+[update]
+[update.modrinth]
+mod-id = "TYHpvAhl"
+version = "c7Kk16eW"

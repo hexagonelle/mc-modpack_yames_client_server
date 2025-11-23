@@ -37,6 +37,29 @@ ServerEvents.tags('item', event => {
 	
 })
 
+LootJS.modifiers((event) => {
+
+	const netherWartWhenSilkTouch = LootEntry.of("minecraft:nether_wart_block").when((c) =>
+		c.matchMainHand(ItemFilter.hasEnchantment("minecraft:silk_touch"))
+	);
+	const crimsonFungus = LootEntry.of("minecraft:crimson_fungus").when((c) => c.randomChance(0.05));
+
+	event
+		.addBlockLootModifier("minecraft:nether_wart_block")
+		.removeLoot(Ingredient.all)
+		.addAlternativesLoot(netherWartWhenSilkTouch, crimsonFungus);
+
+	const warpedWartWhenSilkTouch = LootEntry.of("minecraft:warped_wart_block").when((c) =>
+		c.matchMainHand(ItemFilter.hasEnchantment("minecraft:silk_touch"))
+	);
+	const warpedFungus = LootEntry.of("minecraft:warped_fungus").when((c) => c.randomChance(0.05));
+
+	event
+		.addBlockLootModifier("minecraft:warped_wart_block")
+		.removeLoot(Ingredient.all)
+		.addAlternativesLoot(warpedWartWhenSilkTouch, warpedFungus);
+});
+
 ServerEvents.recipes(event => {
 
 	///////////// VANILLA /////////////
@@ -121,7 +144,7 @@ MoreJSEvents.villagerTrades(event => {
 		offer.setOutput(
 			Item.
 				of("minecraft:enchanted_book").
-                enchant(enchant[0],enchant[1]),);
+				enchant(enchant[0],enchant[1]),);
 		offer.setMaxUses(12);
 		offer.setVillagerExperience(villagerXP);
 		offer.setPriceMultiplier(high);

@@ -1,13 +1,13 @@
 name = "Born In Configuration"
-filename = "borninconfiguration-3.1.1-all.jar"
+filename = "borninconfiguration-3.1.2-all.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/8rGW0cNk/versions/GDUL5qTY/borninconfiguration-3.1.1-all.jar"
+url = "https://cdn.modrinth.com/data/8rGW0cNk/versions/iXmhjP8U/borninconfiguration-3.1.2-all.jar"
 hash-format = "sha512"
-hash = "bd63e95f233a303caf4263b96e897eb43a9005948d15455dd6bc0254005418d7626455781cf7a228c02581bf9ef1dc89c4f5e955766070bd585efec724aa6178"
+hash = "62fd697c7cab945b9330283a6a9deb4fc2cc4d1a37fd368923f41f91ce1c241ef0efa17c3699de983fab28a7def7f12e5d0b6e24b6bf398784242778e7bb64a7"
 
 [update]
 [update.modrinth]
 mod-id = "8rGW0cNk"
-version = "GDUL5qTY"
+version = "iXmhjP8U"
