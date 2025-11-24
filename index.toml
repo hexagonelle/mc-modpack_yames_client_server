@@ -2115,12 +2115,12 @@ file = "config/sodiumextras-client.toml"
 hash = "630d70f1c66a701ef961c7f43ae336421ffe7de6408651e822f738b56190451d"
 
 [[files]]
-file = "config/sol_valheim/client.json5"
-hash = "550cb63f7aec3889a3bba5baa7bb51687ecf128c707e20fa9c770570c4e13871"
+file = "config/sol_valheim_reforged-client.toml"
+hash = "3d07a7a4b79862b21fb4f72e380e7ae73298b3a6070f4201c6e2ca0d4fc48a81"
 
 [[files]]
-file = "config/sol_valheim/common.json5"
-hash = "aff81580a4fa93e0ce3390e151354c07de96a3e2fedc60a15fa3142de7efbd9d"
+file = "config/sol_valheim_reforged-common.toml"
+hash = "6358a27242a920085e0799d2150cda03e587b625750fcf99e367f211214a3872"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -2780,7 +2780,7 @@ hash = "56883f44bb303cd4d7f5de0b1fd728577e4cf16ca1c4cb9b195274451999c869"
 
 [[files]]
 file = "kubejs/server_scripts/silentgear.js"
-hash = "4316feff7e7df32e7b6931b5e8f7f24eb17fdee13654502cac256cfa8252cd31"
+hash = "fcf377c0249d24d151b7582531796854f1da5e7b10b0365250e23dc0e1288440"
 
 [[files]]
 file = "kubejs/server_scripts/silentgear_supplementaries.js"
@@ -3227,7 +3227,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
+hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
 metafile = true
 
 [[files]]
@@ -3257,7 +3257,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "aa8711ff3f1d590b8c3e4e092927e5a697d585e21c52107ddc559c93ffebdaed"
+hash = "4852a9af0dd34136c85a20a9729b554bbb8afbf81f8bfdbb52b8a8cae898b1e6"
 metafile = true
 
 [[files]]
@@ -3332,7 +3332,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
-hash = "5894716f7361f1b4d562e924ec8e1d9d17e54c4d492b209a006e733b8e3b212b"
+hash = "e84e0a242227bb9c314e32e4b0cff900f3e052f4cdf65276edb8621dbbc83608"
 metafile = true
 
 [[files]]
@@ -3352,7 +3352,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "0a83106a7aca1d1a36a5ebc45bd69bb11a03eed73c1eeda5f2ee5c5697ce9b78"
+hash = "9ce768751565bacd62477d56be77dd7f0e0151e03d8a671ee0de21b6a9070818"
 metafile = true
 
 [[files]]
@@ -3367,7 +3367,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "5391ac307bbc73edb72e7eb11495af96e327eff1c02ff67d2ebbe615ca6766d7"
+hash = "1e2f20e482537a35dcf6be7814984f2ee75ed37f1f1861424e9c936727445c41"
 metafile = true
 
 [[files]]
@@ -3382,7 +3382,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
+hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
 metafile = true
 
 [[files]]
@@ -4257,7 +4257,7 @@ metafile = true
 
 [[files]]
 file = "mods/petrolpark.pw.toml"
-hash = "30186ce4202d872067951e23fdbfb831e5b41248534c9e44d68b548903310819"
+hash = "9e0e6977137d55d1d4f32188e351a59836d661cfd0317522da36d3005f01f3a9"
 metafile = true
 
 [[files]]
@@ -4477,17 +4477,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "81c1ee781472f39f694611e6843c1a03bf5734dec8e2548b2772ea7d42c6482d"
+hash = "6523ff47e30a56c902b9f49aadd42d377c5b4b21a634edce7001addbe10040f9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "c70bd3bb53319cb9a00fc92f6af1fcddee0444257631999baa1b159d5f266d3e"
+hash = "301011d56bdc483d1e8671e2c3006350c33eb4ea111d921763238bd6922349e6"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "2933becbb3d92753023401340d9c2152c60fb11aa1b17fbffd462b410346793a"
+hash = "3f1f80089fb9178669e2cb9b630e3398f39a36057b65bfd4b587662b1c396edb"
 metafile = true
 
 [[files]]
