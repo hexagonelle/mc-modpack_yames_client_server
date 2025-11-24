@@ -1984,11 +1984,6 @@ hash = "c44476b69765b8420b8debcdc2aeab26504c7eb9040f22a3f66a099a66220374"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/create-immersive-aircrafts-data-pack.pw.toml"
-hash = "da2b8d37867c5029ce53b23a99449edd6d71861a61cc953a36d8d27789712f09"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/dnt_woodlandmansionreplacement.pw.toml"
 hash = "056ff2437f07e852973581ed8aa9481dfe555ea56784a74536396ef21c1c7639"
 metafile = true
@@ -2636,7 +2631,7 @@ hash = "92e6399a17a25e3262d376ca596e6505295a59aa97ceee89c2fe9c21d76e8185"
 
 [[files]]
 file = "kubejs/server_scripts/create_immersiveaircrafts.js"
-hash = "d16e4661a10b0267188378464b615374d4b90848f80feaefa73aa1801a5a9c4c"
+hash = "1704ccd7ac6112be7c6e1e0fd9efeae0c5190ba1ede8af39ae4a7b2f43648415"
 
 [[files]]
 file = "kubejs/server_scripts/create_quark.js"
