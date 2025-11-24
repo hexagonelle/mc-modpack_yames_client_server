@@ -37,8 +37,7 @@
 	"pack_overrides": {
 		"1": [
     		"Quark Programmer Art.zip",
-    		"__moremcmeta-internal__",
-    		"mod_resources"
+    		"__moremcmeta-internal__"
     	],
     	"$$1": {"hidden": true}
 	}
