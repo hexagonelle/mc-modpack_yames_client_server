@@ -2079,7 +2079,7 @@ hash = "0dd9e37ef99769092a0125f5f2f0a5393a8251073da6c8931001151500c710c2"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "5fa89af729feb312bbfd42c3970d24dd25b4ca763003177f28317154763f8076"
+hash = "ad4bf0e488439d7ba7afeb7177f53889bce8f693e75836296b3fa04bf1ffe893"
 
 [[files]]
 file = "config/ribbits-forge-1_20_1.toml"
@@ -3582,7 +3582,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ff0a0f466af42eb563644507a36e033777fc19c9092fdf3525080a20e15db9e9"
+hash = "3b5b7d833a2dd0a0064371036ab1da338cbbf82fb42d84dc8078dc9f48a3b63c"
 metafile = true
 
 [[files]]
@@ -4702,7 +4702,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f915b953009e707f70d854b7d73fbd333e5fa3524ebfa20e8269fcf69ac95bb4"
+hash = "307c7aacffe82724705d0a6e1aa2ec873a409790f76284ee48c98b7d1ec5fe60"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
