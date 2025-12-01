@@ -2947,7 +2947,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "7eb6b5ee57865d6221be3c428f5a0c4e449f4c86920e9f8736b4f755d7822edf"
+hash = "7a266a082b54627e5f95aa154871114fded8c0a06af104e49cf08668b869cfad"
 metafile = true
 
 [[files]]
@@ -2977,7 +2977,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
-hash = "85f0db931f77f464fafb9a7b4e4408390352a6a588c40405ece99843baec4428"
+hash = "3025827844edd52f4707afc8b514819f55abcec619b66bf75c463100f657504f"
 metafile = true
 
 [[files]]
@@ -3102,7 +3102,7 @@ metafile = true
 
 [[files]]
 file = "mods/chickensshed.pw.toml"
-hash = "eeb8e30848242fa2dc20ddf5f8a7778a4f0ef459ce9242a82b3a93d6aebcac91"
+hash = "a8c622f66cbead2bb019a1776e55e0a6b73c94250bf20ec3a64f535c09f521ac"
 metafile = true
 
 [[files]]
@@ -3412,7 +3412,7 @@ metafile = true
 
 [[files]]
 file = "mods/data-anchor.pw.toml"
-hash = "4a24ff40173c5380b4cc3f6c34f1aaa06ee922a6c9fb060d1dd0aea89aef0e6c"
+hash = "c119c640434f1a58927586c65ebe011b4f0335b32b558a39a17ef08233469ee0"
 metafile = true
 
 [[files]]
@@ -3507,7 +3507,7 @@ metafile = true
 
 [[files]]
 file = "mods/embers.pw.toml"
-hash = "9ca819fb49b8abb0645d1aec799a1361d143032e72990c526bfdb222ffc03f0d"
+hash = "d8221fdfbae2202a72a8158b612f121383ac024938db97d873a720566d3573a8"
 metafile = true
 
 [[files]]
@@ -3522,7 +3522,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "5d6004ca876efde3d87e789b18c6e3c54be63ccab8b733d3f1b7c74f39f29eda"
+hash = "705e19e3ac6db19537e4d4dd9db700570238dce1e8730fecc5df791d7ef3e722"
 metafile = true
 
 [[files]]
@@ -3532,7 +3532,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-professions-(emip).pw.toml"
-hash = "a6d7be757adbf70795a30abcf6525156d6c8db551e86c876a0feabb9d3bd4f8c"
+hash = "e36428f55760587b9f9d323cdb497dec6a41089e815d3d3c2482fae5bcdf796f"
 metafile = true
 
 [[files]]
@@ -3997,7 +3997,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "47b9410704efc0f8cb3b34a87d7019a013850775afe464e887b19ecf45eac0d3"
+hash = "66bcfe786e6bbdee6f7ea0805ec3d2561b41285a5c77f1e465e80f4c2fd9200c"
 metafile = true
 
 [[files]]
@@ -4162,7 +4162,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+hash = "4cd211200d17b109bb15f88c7b0c6ba29d9c0af6d2feb76fc7fe4eabff2e4ffe"
 metafile = true
 
 [[files]]
@@ -4277,7 +4277,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "9afbfad3f4f16a4859dc57a9287d8b6344a69df7c51c6a70024af3d70b5a7e0a"
+hash = "4c5067e50f8fa22658a27aaf53fc7c109007ec6b5e9a2907aa4a7ee09d238131"
 metafile = true
 
 [[files]]
@@ -4542,7 +4542,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "c6fbd370928104ad11bfe108fd5b19ced046a9cc6d39499a9ef5399ac00b4063"
+hash = "6161309e69a86b6258e9d2c7cb541e3f083cbcc729be14951343f34a186048c5"
 metafile = true
 
 [[files]]
@@ -4602,7 +4602,7 @@ metafile = true
 
 [[files]]
 file = "mods/via-romana.pw.toml"
-hash = "e9b4b1557b2da4bb829bf945a9b0c82e4899cc979dcf6e84430dd2978c37c80a"
+hash = "764eb1867c9257efea2df7af12bc6d89996b60722023508ffad096e633e1327b"
 metafile = true
 
 [[files]]
