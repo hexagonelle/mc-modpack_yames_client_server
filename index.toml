@@ -4046,6 +4046,11 @@ hash = "878e22c186eea5703c64d0da20a73d2a169986d05da802e2d4ca439c025d0ef3"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "b1c3909588ba4288c47a6ee969bb6cdd28db0943fc4747ef778ccf5feb3885f9"
+metafile = true
+
+[[files]]
 file = "mods/mindful-darkness.pw.toml"
 hash = "8c0b39fe7dcf2de0a30bc02f07e6c23d500790dc07853be246e057b97065febb"
 metafile = true
