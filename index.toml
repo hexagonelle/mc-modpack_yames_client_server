@@ -3571,18 +3571,13 @@ hash = "0405ab9319677d1826c98681a58fa758f50f252d3dc20da3a846eb67a3b06501"
 metafile = true
 
 [[files]]
-file = "mods/ender-trigon.pw.toml"
-hash = "571205ec9ce64c02a23df9bee083a75f467326dd903e31a55ce9ab856a5767a1"
-metafile = true
-
-[[files]]
 file = "mods/endrem.pw.toml"
 hash = "cf8b399763d0fc62822c3b1e3a7f9aee6b033dcaddc3cef4bfc33b4f52f2ba7c"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "3b5b7d833a2dd0a0064371036ab1da338cbbf82fb42d84dc8078dc9f48a3b63c"
+hash = "5ac6fe9a921d8fa00456ec2e18da02ede5c0da424c5c5b57da1206feeac40ff6"
 metafile = true
 
 [[files]]
@@ -3592,7 +3587,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c7dfdcddf32a63084e0b54679e33378769bc4f48bd97f006008405da5e6df2ba"
+hash = "fead18eeed3b6918cdbb2d4e5008caf5ea7b398c05210201ee55c2daa619d0f3"
 metafile = true
 
 [[files]]
@@ -4583,6 +4578,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "0bc775f6b740e9fa539e8237f49ce5265a15f16725fef1deeab7097ea6571099"
 metafile = true
 
 [[files]]
