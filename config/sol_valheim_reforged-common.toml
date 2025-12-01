@@ -1,7 +1,7 @@
 
 ["starting health"]
 	#Number of hearts the player starts with (2 health = 1 heart) (range 2-20, default 6)
-	base_health = 5.0
+	base_health = 10.0
 
 ["regen factor"]
 	#Time it takes (in ticks) for the player to passively regain 1 health (½ heart) (range 20-200, default 100)

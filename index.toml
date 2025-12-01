@@ -2115,7 +2115,7 @@ hash = "3d07a7a4b79862b21fb4f72e380e7ae73298b3a6070f4201c6e2ca0d4fc48a81"
 
 [[files]]
 file = "config/sol_valheim_reforged-common.toml"
-hash = "6358a27242a920085e0799d2150cda03e587b625750fcf99e367f211214a3872"
+hash = "07c4ff089c31445f6270029009889bc53b8ec01e5f387ed8f60e5a4614168915"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -2584,6 +2584,10 @@ hash = "63daee7d9e7c29b95a11ae2152674aa66f7f4c6d3a619cd1b8f83da59d839e8c"
 [[files]]
 file = "kubejs/server_scripts/almostunified.js"
 hash = "97605d1c1f3184ebf0241bd4ddbfc8cc8f857afc0ba50436c4aa472944eea263"
+
+[[files]]
+file = "kubejs/server_scripts/apotheosis.js"
+hash = "40440af259299197bd68886fabb4d006a9c04bbadb160d67280fd663c201e9a9"
 
 [[files]]
 file = "kubejs/server_scripts/berrygood.js"
