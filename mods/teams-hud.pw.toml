@@ -1,0 +1,13 @@
+name = "Teams HUD"
+filename = "TeamsHUD-forge-1.20.1-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff078bf85a8672700f2a01c6d8afed1d9fb6da38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5532774
+project-id = 1022022

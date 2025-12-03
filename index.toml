@@ -1209,6 +1209,10 @@ file = "config/cardiac.yaml"
 hash = "f2dc870db8dc31032502ac94b75a8df76b338080bbaa9c6f579c66c55fdcb03a"
 
 [[files]]
+file = "config/clientsort.json"
+hash = "5f54a936a49bd8edd73fa011f2b81cf8362937d4049eb104f55decb6182c2a89"
+
+[[files]]
 file = "config/clienttweaks-common.toml"
 hash = "26a64e2f47a7cf42b9c26e047dd19fc3f124eba2302ebc80f589398be3e82324"
 
@@ -2063,7 +2067,7 @@ hash = "d5861d025473ddd0a9b5326698b044546072e95028ef7f4ad8f438fad1bb7e09"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "7edd2b6bd9192f96b1102ea275a84135c06d3cf699ad1649a9ce89edb9c16205"
+hash = "ad36d2637e5d06aa4b34b09cab7eff8d3135bd6b7e9827def750b407c2d6d652"
 
 [[files]]
 file = "config/quark-common.toml.nice"
@@ -3147,6 +3151,11 @@ metafile = true
 [[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "bc820e991af00d765945397d130e2a9e2592148265041cea8754adabf746bd88"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "f530304bc7ad4bbb904e4ec8363f03160d8f6b08128f2d4730206a8f484af474"
 metafile = true
 
 [[files]]
@@ -4527,6 +4536,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "3848bc11aa2acabef74eb85ca74b8ca8e23733b7fcbc77293165c5c7161e3288"
+metafile = true
+
+[[files]]
+file = "mods/teams-hud.pw.toml"
+hash = "cf23e901a81e762f858c0c7d7b48e7b7a394812c398898f8cd95921c5e9649b1"
 metafile = true
 
 [[files]]
