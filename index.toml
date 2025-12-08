@@ -2651,7 +2651,7 @@ hash = "3568aa2a43b894b63a65fcf2d84038ada9bba4d7a250daf1672d183203bca7c3"
 
 [[files]]
 file = "kubejs/server_scripts/create_embers.js"
-hash = "92e6399a17a25e3262d376ca596e6505295a59aa97ceee89c2fe9c21d76e8185"
+hash = "70ef9a68418888faa5a66793105dc8cba55ed9d550a0e3113eebb532ede50d79"
 
 [[files]]
 file = "kubejs/server_scripts/create_immersiveaircrafts.js"
@@ -2660,6 +2660,10 @@ hash = "1704ccd7ac6112be7c6e1e0fd9efeae0c5190ba1ede8af39ae4a7b2f43648415"
 [[files]]
 file = "kubejs/server_scripts/create_quark.js"
 hash = "0bdfe2d3875afbfbb06986319bc1d70a7c825098fec04fc60face338df006993"
+
+[[files]]
+file = "kubejs/server_scripts/create_silentgear.js"
+hash = "72e32afc959af8a22bb83571595497df4d62ab6f17995191a2d66a53868e3c85"
 
 [[files]]
 file = "kubejs/server_scripts/create_wizardsreborn.js"
@@ -2712,6 +2716,10 @@ hash = "39a6a0adc67afcfd416726be896e7bb815bf7c8e15e810bee6088fd5c405edd4"
 [[files]]
 file = "kubejs/server_scripts/delightful_hexerei_immersive-weathering.js"
 hash = "097c7b27be02055a0670154be6021ec4f28a785be63a292cafbf977905e700dd"
+
+[[files]]
+file = "kubejs/server_scripts/embers_silentgear.js"
+hash = "d2d765a3017c4a1afd4c2408e82ce6b14e41b8ad68e68c94a23faf156eb50621"
 
 [[files]]
 file = "kubejs/server_scripts/embers_terralith.js"
