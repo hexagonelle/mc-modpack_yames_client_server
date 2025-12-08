@@ -1209,10 +1209,6 @@ file = "config/cardiac.yaml"
 hash = "f2dc870db8dc31032502ac94b75a8df76b338080bbaa9c6f579c66c55fdcb03a"
 
 [[files]]
-file = "config/clientsort.json"
-hash = "5f54a936a49bd8edd73fa011f2b81cf8362937d4049eb104f55decb6182c2a89"
-
-[[files]]
 file = "config/clienttweaks-common.toml"
 hash = "26a64e2f47a7cf42b9c26e047dd19fc3f124eba2302ebc80f589398be3e82324"
 
@@ -1387,6 +1383,18 @@ hash = "6da41c3527b9a8c8b7c954a8d695b196eb492f6ea26ec71f7208461732405a95"
 [[files]]
 file = "config/incontrol/spawn.json"
 hash = "5f4c2d14aff9766c13367825602103b12ad4c844a858f04058b3787a053715a5"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "5e417cf860cd1a96d9397d4d07179fa020049dcf4de52e2210add32c6f43d09c"
+
+[[files]]
+file = "config/invtweaks-client.toml"
+hash = "244a51f510050145e8f176faec97af65f0c293423b0fbe095ffdfffe5f64fede"
 
 [[files]]
 file = "config/jaopca/custom_forms.json"
@@ -2598,6 +2606,14 @@ file = "kubejs/server_scripts/berrygood.js"
 hash = "6a036d0ab1f63b92e10a4601775f7d2c329fbdea190f314175f7486ae07a3f68"
 
 [[files]]
+file = "kubejs/server_scripts/borninchaos.js"
+hash = "0a1151b5d54d473a1c65faa8a9c599dbb773a43000ac8347d24c4e34d569a014"
+
+[[files]]
+file = "kubejs/server_scripts/cataclysm_iw_quark_yungscaves.js"
+hash = "aeff54b45deb35dbc86271181a3e9af115fe59f0bb539d8e34d80cf212edebd7"
+
+[[files]]
 file = "kubejs/server_scripts/cluttered_handcrafted.js"
 hash = "f9202dc568f46a86509012e975f976bca79d383eb889f3289d013af8467aebd2"
 
@@ -2691,7 +2707,7 @@ hash = "57f49d6ae249814553dee08b67f61da930f4add6bcd0695caa4703c3778dd9b1"
 
 [[files]]
 file = "kubejs/server_scripts/custom-lanternhousing_realistictorches.js"
-hash = "c05d484c214d69462d47804c97b4e36a8946f2d5efd433a1755ee58398696c31"
+hash = "39a6a0adc67afcfd416726be896e7bb815bf7c8e15e810bee6088fd5c405edd4"
 
 [[files]]
 file = "kubejs/server_scripts/delightful_hexerei_immersive-weathering.js"
@@ -3151,11 +3167,6 @@ metafile = true
 [[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "bc820e991af00d765945397d130e2a9e2592148265041cea8754adabf746bd88"
-metafile = true
-
-[[files]]
-file = "mods/clientsort.pw.toml"
-hash = "f530304bc7ad4bbb904e4ec8363f03160d8f6b08128f2d4730206a8f484af474"
 metafile = true
 
 [[files]]
@@ -3894,6 +3905,11 @@ hash = "a3ad7e869e1b5bbb07a1972325a70de2b8a1dac9e6919fd3cc1c037e77fcf4c0"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "2514cf5b79023dea4f80446a03bfef5ddfaa4cc3a463abb49fd8a16c891ac620"
+metafile = true
+
+[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "e9b05dcf29f12335bcbf61bbbc019cee3d5b983c49433e3fc23fcf4afe12e9d1"
 metafile = true
@@ -3935,7 +3951,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
@@ -3971,6 +3987,11 @@ metafile = true
 [[files]]
 file = "mods/libertyvillagers.pw.toml"
 hash = "f019706dd32c4232763a2650e46b517400ce81a7c6688e04d4dafb2dcb9afc48"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
