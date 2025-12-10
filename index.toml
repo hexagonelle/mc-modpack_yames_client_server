@@ -3264,6 +3264,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
@@ -3613,6 +3614,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-boss-bars-mod.pw.toml"
+hash = "170a341c0cfc02b56374f1a2c4391e89a6705a8636b3ba6712e6cd13d786a35f"
 metafile = true
 
 [[files]]
@@ -4682,6 +4684,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
 metafile = true
 
 [[files]]
@@ -4915,6 +4918,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/visual-travelers-title-biomes-addon.pw.toml"
+hash = "2063f38cb177f221b83e0ac8d5756ca6dc7533797db518b73ac7e19f9f90d63c"
 metafile = true
 
 [[files]]
