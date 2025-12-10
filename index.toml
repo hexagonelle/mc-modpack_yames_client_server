@@ -4844,6 +4844,11 @@ hash = "87f10ab2b270f3ee946cc303c401575cb2b3e63be10547838d596f8a46b58490"
 metafile = true
 
 [[files]]
+file = "resourcepacks/asyasas-legacy-copper.pw.toml"
+hash = "9995fc0f9650e6edfb2fc94c76a036cdb30a680b356fd36be0b5237984b13ae9"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-nether-porta.pw.toml"
 hash = "23da1076511ce198546e98eed1e35c2f0e87f2dab0be695a4346ae9b23041ecf"
 metafile = true
