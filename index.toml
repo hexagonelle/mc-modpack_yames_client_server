@@ -3263,6 +3263,10 @@ hash = "136205914a8e3370ac4ab6d4f1a14d755921c176964867fef8d4ca945e32515f"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
@@ -3605,6 +3609,10 @@ metafile = true
 [[files]]
 file = "mods/endrem.pw.toml"
 hash = "cf8b399763d0fc62822c3b1e3a7f9aee6b033dcaddc3cef4bfc33b4f52f2ba7c"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-boss-bars-mod.pw.toml"
 metafile = true
 
 [[files]]
@@ -4673,6 +4681,10 @@ hash = "414fb16c0e035c59052cf297f2de8f95090043c177687f42286430835f0b4dae"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/wither-spawn-animation.pw.toml"
 hash = "ba758f77d7e7d65f6c1ba0254a4cb66a83c3eb6fc110315475875787ed42dcb0"
 metafile = true
@@ -4899,6 +4911,10 @@ metafile = true
 [[files]]
 file = "resourcepacks/villagers-refreshed.pw.toml"
 hash = "570fe521e4e227ddad98b2bcbb3f29dd72c2d89c80a4e1bc6faf2265b8774979"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-travelers-title-biomes-addon.pw.toml"
 metafile = true
 
 [[files]]
