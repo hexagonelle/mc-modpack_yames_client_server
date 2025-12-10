@@ -2007,13 +2007,17 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/immersivegenerators.pw.toml"
-hash = "f5e91cb961f8b254959e9a3288bae81ab6c85c561aeeabce00c708cdd8663650"
+hash = "c54102c9d60a6166dafb7316c22fe51e8b4187794281c01e5d3b2aca00e647c1"
 metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/minimal_iw_growth.pw.toml"
 hash = "2209fedb706296bfb4ca641c6f4fc386c726a0154bef8f0192573a2aa5d9732e"
 metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/pack.mcmeta"
+hash = "6acf1a52c00f7e8171e73371f56082992cadb1b6da62f15e7811eafc83ee6938"
 
 [[files]]
 file = "config/paxi/datapacks/sky-villages-farmers-delight-compat.pw.toml"
@@ -2474,6 +2478,10 @@ file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/glowing_obsidian.png"
+hash = "92d7ab074114edc77cad20a3fc6b8801bd52bf6819a839308e3c1a783142f133"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/hextuple_compressed.png"
 hash = "e33910f765ab67aba0b5cf993ee6e4dfe21d5b77fb8896cd4966dd4dd5956c48"
 
@@ -2627,7 +2635,7 @@ hash = "f742add45a3289521577101296c85b63b69a974c255cbcb2f3e513a854f71029"
 
 [[files]]
 file = "kubejs/server_scripts/cobblegen.js"
-hash = "779f72ae5a5390344f9dea76df256c341fec6989f3e2144e90d035a8a3c0b1c2"
+hash = "abddd31fd80e7cae1abfeb4c14a604e1c37fba50fbca7af9ee696d78d3fbbd41"
 
 [[files]]
 file = "kubejs/server_scripts/cookingforblockheads_supplementaries.js"
@@ -2842,6 +2850,10 @@ file = "kubejs/startup_scripts/custom-compressedblocks_quark.js"
 hash = "5af7afd1296fd41bf8dd28249549906e5ada55af45d3c4b9c2a284927d869429"
 
 [[files]]
+file = "kubejs/startup_scripts/custom-glowing_obsidian.js"
+hash = "2d733de3344d76d24601aa259c1039aeb2628f6b3485abe48c093b41b1306de0"
+
+[[files]]
 file = "kubejs/startup_scripts/custom-lantern_housing.js"
 hash = "49c6b671cf5aeb793c814926654ae80cac58179b44927a8e1015569d5e4f6bf9"
 
@@ -2865,11 +2877,6 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "3b4408ce2399f0ce9bab2243f3255c73d26f4113bc2438974ca47267ef9df7ea"
-metafile = true
-
-[[files]]
-file = "mods/achievements-optimizer.pw.toml"
-hash = "66a79717f4a689747f38dbc95e0501ae4c44af056a2319529d2434c4a3b08b3c"
 metafile = true
 
 [[files]]
@@ -2980,11 +2987,6 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "7a266a082b54627e5f95aa154871114fded8c0a06af104e49cf08668b869cfad"
-metafile = true
-
-[[files]]
-file = "mods/badpackets.pw.toml"
-hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
 metafile = true
 
 [[files]]
@@ -3125,6 +3127,11 @@ metafile = true
 [[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "6f9ada4ae8dfcf29a7071e0eec596d8408e6e9091385db8fd1cddd0c2d89217a"
+metafile = true
+
+[[files]]
+file = "mods/cerulean-advancements.pw.toml"
+hash = "2723c4b5a96c50cfc77dfbf633b385619487dd97914c408db8bcedbaee2ac02f"
 metafile = true
 
 [[files]]
@@ -3515,6 +3522,11 @@ metafile = true
 [[files]]
 file = "mods/domestication-innovation.pw.toml"
 hash = "bfd2911d1fc7136f92be93d4e3081b85f30109373ac640fbac2e3b3896d709f2"
+metafile = true
+
+[[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
 metafile = true
 
 [[files]]
@@ -3978,6 +3990,11 @@ hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "c8766f2ad1ae837ec4021167fc08bb9604c036d0fd12d7fc63bb407eaecb080e"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "e9ea701c9fc9bb54d1bd3b6998403a229f896449c0d15b5df23dc46e20ac5092"
 metafile = true
@@ -4020,6 +4037,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
 metafile = true
 
 [[files]]
@@ -4268,6 +4290,16 @@ hash = "3d039d564c8b778390781edadf1891d56593e708aa40afdacaad5cce2004e46a"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "be2cd243fe83f4253d406afaf81781ffafb12d86903fcac8df913f247d84a0df"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "aed7f8cfd6f50c5a0c3209907e3b615242e77ddcf5652610a81511c752fec3f1"
 metafile = true
@@ -4393,6 +4425,16 @@ hash = "d282a7b0297f8987976b6f2495c35c9d11c22ebf6bd6cf1cba748e4cbd218744"
 metafile = true
 
 [[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "70317d05a7dfadbb3b9bb8aa1f1c3efa38cb442768a133be6ac851e3dabe2096"
+metafile = true
+
+[[files]]
+file = "mods/redirected.pw.toml"
+hash = "e6a6271d5f360df60467751651242b3eb6cc86f3e1fb94def2b32427080f7bd7"
+metafile = true
+
+[[files]]
 file = "mods/regrowth.pw.toml"
 hash = "5e893defced5c834e2c08f650ef66c6661bac7b46d62f206427ac813b127e6ac"
 metafile = true
@@ -4423,6 +4465,11 @@ hash = "d668582ea913944b31fda3e0cbe8bd7fda3852f960bd4f7a58fe9bba526a9037"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "35c4484a3bd6b9055f3f944ed8bdc27fb8c62a385277b9e7f89fd19bccfa4191"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "3602f220a9d98e89d44168a6e84dc7bb169fb8b8209b4b966288d1fa1c3650bc"
 metafile = true
@@ -4435,6 +4482,11 @@ metafile = true
 [[files]]
 file = "mods/scholar.pw.toml"
 hash = "402313cc27e7fab4f56376b276807e4fc525721802e7b81af87c33eaa29c43e1"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "9fa45dfc2bc1e69381308d53a3a2f4ce21c10664424cdc8b84366d448cbc5250"
 metafile = true
 
 [[files]]
@@ -4580,6 +4632,11 @@ metafile = true
 [[files]]
 file = "mods/teams-hud.pw.toml"
 hash = "cf23e901a81e762f858c0c7d7b48e7b7a394812c398898f8cd95921c5e9649b1"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
 metafile = true
 
 [[files]]
