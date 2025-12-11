@@ -3455,11 +3455,6 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
-file = "mods/data-anchor.pw.toml"
-hash = "c119c640434f1a58927586c65ebe011b4f0335b32b558a39a17ef08233469ee0"
-metafile = true
-
-[[files]]
 file = "mods/decorative-core.pw.toml"
 hash = "a7f4ddaae943d99cf5f3de68a2b4a6a016da695078cbcf108b0d97d0edd4ac71"
 metafile = true
@@ -3767,11 +3762,6 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "51a92411c991732cb5e81f86754e177bc8fbd4f6d7bb02940e1d4852ca961540"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
@@ -4717,11 +4707,6 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "231e9ce2be39e75b040f4fcd8ae12c8aabb897dacad0a589ee1f12f014b6e02e"
-metafile = true
-
-[[files]]
-file = "mods/via-romana.pw.toml"
-hash = "764eb1867c9257efea2df7af12bc6d89996b60722023508ffad096e633e1327b"
 metafile = true
 
 [[files]]
