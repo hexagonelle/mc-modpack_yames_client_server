@@ -21,6 +21,10 @@ file = "config/WildfireGender/fe7f4ffc-899d-42e2-b23a-340acf106215.json"
 hash = "fe2ddeb88530b387a2daf4ffced9cb4e05480b4f60a7504961bd59f9b83950cd"
 
 [[files]]
+file = "config/accessories.json5"
+hash = "eec36323dc536e64f76eb2d8c049148ecd992bb2e1d0eaa31726f4a0b6f70a39"
+
+[[files]]
 file = "config/achievement_optimizer/Achievement-Optimizer.toml"
 hash = "6e9d2ee6e6e6334533a59e948fd092da75212bd9ead6c20c804bb88c849d30ac"
 
