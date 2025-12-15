@@ -22,7 +22,7 @@ hash = "fe2ddeb88530b387a2daf4ffced9cb4e05480b4f60a7504961bd59f9b83950cd"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "eec36323dc536e64f76eb2d8c049148ecd992bb2e1d0eaa31726f4a0b6f70a39"
+hash = "591ad40b1ce321e3ed5b5dcfd115b9661fd2dffbbf29069cf50b434f7661bcdf"
 
 [[files]]
 file = "config/achievement_optimizer/Achievement-Optimizer.toml"
@@ -1235,14 +1235,6 @@ hash = "b00e339d76c88a89fd84526c5620f0170d5ab340bb9e43c581993027ab416e83"
 [[files]]
 file = "config/createpickywheels-common.toml"
 hash = "c94396e17ad41443ee1d08b933b0808b21203fbad23d635aff6093da8a00ebc8"
-
-[[files]]
-file = "config/curios-common.toml"
-hash = "7e2e4454ea0d7ec218ca0c60f8b88e62cc9ceedf553e4f275d85b2644c1f0a6b"
-
-[[files]]
-file = "config/curious-lanterns-client.toml"
-hash = "68d5887d80d303dfbd2f594e103f14563f507382bf883af69b98706743b40dc2"
 
 [[files]]
 file = "config/delightful-common.toml"
@@ -2478,6 +2470,10 @@ file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/glowing_obsidian.png"
+hash = "92d7ab074114edc77cad20a3fc6b8801bd52bf6819a839308e3c1a783142f133"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/hextuple_compressed.png"
 hash = "e33910f765ab67aba0b5cf993ee6e4dfe21d5b77fb8896cd4966dd4dd5956c48"
 
@@ -2631,7 +2627,7 @@ hash = "f742add45a3289521577101296c85b63b69a974c255cbcb2f3e513a854f71029"
 
 [[files]]
 file = "kubejs/server_scripts/cobblegen.js"
-hash = "779f72ae5a5390344f9dea76df256c341fec6989f3e2144e90d035a8a3c0b1c2"
+hash = "abddd31fd80e7cae1abfeb4c14a604e1c37fba50fbca7af9ee696d78d3fbbd41"
 
 [[files]]
 file = "kubejs/server_scripts/cookingforblockheads_supplementaries.js"
@@ -2844,6 +2840,10 @@ hash = "593b49c4d457b67f4ef6af903d431e03858bb20bdaae56642aaed7271a652ba0"
 [[files]]
 file = "kubejs/startup_scripts/custom-compressedblocks_quark.js"
 hash = "5af7afd1296fd41bf8dd28249549906e5ada55af45d3c4b9c2a284927d869429"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-glowing_obsidian.js"
+hash = "2d733de3344d76d24601aa259c1039aeb2628f6b3485abe48c093b41b1306de0"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-lantern_housing.js"
