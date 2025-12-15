@@ -1194,7 +1194,7 @@ hash = "3e6845b9c5ac0d6d0f924e58e22ccd8b3a35414bf8a28bf3b6a5058e8d800664"
 
 [[files]]
 file = "config/blockrunner.json"
-hash = "c050f7fcd97452856c631626f46d2bbc9393a8130bbbecb3d2f5da5995cd79d8"
+hash = "c258a5b3b68392b3b6d8e8d12ee4054cc73388a14d5efc55c86350ad931e9dcc"
 
 [[files]]
 file = "config/borninconfiguration-general.toml"
@@ -2907,6 +2907,11 @@ hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "416c089224a401ec7c0ef60ae6f1f8555e783f89ec6aba49d72f41c58d7955d2"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "e1a222c5ace6d1b4bab067b1245e460179a153f1e7bc8538335056fa8442155c"
 metafile = true
@@ -3409,6 +3414,11 @@ metafile = true
 [[files]]
 file = "mods/default-server-properties.pw.toml"
 hash = "639661154b7bd21decfce7e0ffae276d356302bda8728f2a1a547696b1f925f4"
+metafile = true
+
+[[files]]
+file = "mods/deimos.pw.toml"
+hash = "3be9c29b5cd5ac222e0707dd1588797ee6e39738d034f26b94311e0b1ebab799"
 metafile = true
 
 [[files]]
@@ -4484,11 +4494,6 @@ metafile = true
 [[files]]
 file = "mods/weaponmaster.pw.toml"
 hash = "414fb16c0e035c59052cf297f2de8f95090043c177687f42286430835f0b4dae"
-metafile = true
-
-[[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
 metafile = true
 
 [[files]]
