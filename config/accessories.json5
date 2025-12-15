@@ -27,5 +27,10 @@
 		},
 		"disabledDefaultRenders": []
 	},
-	"modifiers": []
+	"modifiers": [
+		{
+			"slotType": "Belt",
+			"amount": 3
+		}
+	]
 }
