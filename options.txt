@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","jaopca:inmemory","Moonlight Mods Dynamic Assets","mod_resources","fabric","file/VanillaTweaks1.20.x.zip","file/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip","file/Create Teleporters Remastered V0.1 1.20.1 Fix.zip","file/Create-Construction-Wands.zip","file/Newer Age v0.2.zip","file/AsYasya\u0027s Legacy Copper.zip","file/Explorer_Compass_Retexture.zip","file/CompressedBlocks.zip","file/Immersive_Generators_EMI.zip","eatinganimations_compat","file/Visual Titles 1.1.zip","file/Visual Travelers Titles Biomes Addon.zip","file/Sophisticated Quark.zip","file/cluttered_everycomp_fix.zip","file/crops-3d(2).zip","file/CropGrowthMarkers.zip","file/cubic-sun-moon-v1.8.4a.zip","file/SilentConglomery.zip","file/armory-conglomery-v2.2.zip","file/TropicalFish-resource.zip","file/The_Wither-King_of_the_Nether.zip","file/Better_Enderdragon.zip","file/Reimagined_Test.zip","file/Slightly-Improved-Font-1.1.5.zip","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","file/Consistent Naming - Charred.zip","file/LanternPBR.zip","file/FreshAnimations_v1.9.2.zip","file/FreshCompats_v1.6.zip","file/Merchant_Fix.zip","file/mobs-refreshed-fa-v2.2.zip","file/villagers-refrehsed+FA-v1.0.zip"]
+resourcePacks:["vanilla","jaopca:inmemory","Moonlight Mods Dynamic Assets","mod_resources","fabric","file/VanillaTweaks1.20.x.zip","file/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip","file/Create Teleporters Remastered V0.1 1.20.1 Fix.zip","file/Create-Construction-Wands.zip","file/Newer Age v0.2.zip","file/AsYasya\u0027s Legacy Copper.zip","file/Explorer_Compass_Retexture.zip","file/CompressedBlocks.zip","file/Immersive_Generators_EMI.zip","eatinganimations_compat","file/Visual Titles 1.1.zip","file/Visual Travelers Titles Biomes Addon.zip","file/Sophisticated Quark.zip","file/cluttered_everycomp_fix.zip","file/crops-3d(2).zip","file/CropGrowthMarkers.zip","file/REVIVED_Farmer\u0027s Delight_crops_3D_R1.5.1-1.20.x.zip","file/Blockier Goat Horn v1.2.zip","file/cubic-sun-moon-v1.8.4a.zip","file/SilentConglomery.zip","file/armory-conglomery-v2.2.zip","file/TropicalFish-resource.zip","file/The_Wither-King_of_the_Nether.zip","file/Better_Enderdragon.zip","file/Reimagined_Test.zip","file/Slightly-Improved-Font-1.1.5.zip","scholar:chiseled_bookshelf_colored_books","scholar:colored_books","file/Consistent Naming - Charred.zip","file/LanternPBR.zip","file/FreshAnimations_v1.9.2.zip","file/FreshCompats_v1.6.zip","file/Merchant_Fix.zip","file/mobs-refreshed-fa-v2.2.zip","file/villagers-refrehsed+FA-v1.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -127,12 +127,10 @@ key_key.modernfix.config:key.keyboard.unknown
 key_key.apotheosis.toggle_radial_mining:key.keyboard.unknown
 key_key.apotheosis.world_tiers_arent_real:key.keyboard.unknown
 key_autothirdperson.toggle:key.keyboard.unknown
+key_key.corpse.death_history:key.keyboard.u
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-key_tombstone.message.knowledge_of_death:key.keyboard.k
-key_tombstone.message.config:key.keyboard.unknown
-key_tombstone.message.compendium:key.keyboard.unknown
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
 key_key.control:key.keyboard.left.control
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
@@ -182,11 +180,11 @@ key_placebo.toggleWings:key.keyboard.keypad.8
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.protection_pixel.armortabletrigger:key.keyboard.right.shift
