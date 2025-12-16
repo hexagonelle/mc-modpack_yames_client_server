@@ -2702,10 +2702,6 @@ file = "kubejs/server_scripts/custom-compressedblocks_quark.js"
 hash = "6b312d6ad0d8d0f0f681563fc330be3e386dc09286115647510b5d69ed40641e"
 
 [[files]]
-file = "kubejs/server_scripts/custom-lantern_housing.js"
-hash = "d0c958548951d3aedbb3d7bb4d5756302c90e3df7fd6952aec12c1d576cde669"
-
-[[files]]
 file = "kubejs/server_scripts/custom-lanternhousing.js"
 hash = "57f49d6ae249814553dee08b67f61da930f4add6bcd0695caa4703c3778dd9b1"
 
@@ -2778,6 +2774,10 @@ file = "kubejs/server_scripts/farmingforblockheads.js"
 hash = "621d58b63458f0540d6b9968e7c82854690654c33cfd2accdf57e210fd7149b8"
 
 [[files]]
+file = "kubejs/server_scripts/geodes.js"
+hash = "0304a8c401e90c8dcaf1f4f07cc10e9ca65e9267641b39bf101919e95526580c"
+
+[[files]]
 file = "kubejs/server_scripts/handcrafted.js"
 hash = "82afdf2005853b0de551f4f3512f1e9d39ace68252e31d2cd351651d5b9d1ca9"
 
@@ -2800,6 +2800,10 @@ hash = "da780377000eee6a9bd88e8d8e06670d44fd5666926cc5aae2bc794a834fc272"
 [[files]]
 file = "kubejs/server_scripts/quark.js"
 hash = "27f01597c3006b0f1a087047c9bca77a1cb471b02d6c6c5553e211cac78f37ca"
+
+[[files]]
+file = "kubejs/server_scripts/recovery_totem.js"
+hash = "1113e2442df8c0bd029fc0c04176cf01c3468ec3eaad4cd66a139f10e3fab01c"
 
 [[files]]
 file = "kubejs/server_scripts/rituals.js"
@@ -4572,7 +4576,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cb13457c66ac9490f34b494bed842373ea8f95cb88cb27e5327307014b5d8b54"
+hash = "40cbaef943dc07da51af0157e9adac795550a9feee51789a01ff79bedfdc0583"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
