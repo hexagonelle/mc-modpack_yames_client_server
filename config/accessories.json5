@@ -29,8 +29,8 @@
 	},
 	"modifiers": [
 		{
-			"slotType": "Belt",
-			"amount": 3
+			"slotType": "belt",
+			"amount": 2
 		}
 	]
 }

@@ -22,7 +22,7 @@ hash = "fe2ddeb88530b387a2daf4ffced9cb4e05480b4f60a7504961bd59f9b83950cd"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "591ad40b1ce321e3ed5b5dcfd115b9661fd2dffbbf29069cf50b434f7661bcdf"
+hash = "5b6ee40b93f0f5c47fdaedc292d72fe55268e9d0405250812aaebc4d5e12f9eb"
 
 [[files]]
 file = "config/achievement_optimizer/Achievement-Optimizer.toml"
@@ -4547,7 +4547,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "307c7aacffe82724705d0a6e1aa2ec873a409790f76284ee48c98b7d1ec5fe60"
+hash = "cb13457c66ac9490f34b494bed842373ea8f95cb88cb27e5327307014b5d8b54"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
