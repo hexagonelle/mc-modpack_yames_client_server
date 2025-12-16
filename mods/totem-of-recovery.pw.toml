@@ -1,0 +1,13 @@
+name = "Totem of Recovery"
+filename = "totemofrecovery-1.0.1-neoforge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h2oJx6S7/versions/8iKN6tos/totemofrecovery-1.0.1-neoforge-1.20.1.jar"
+hash-format = "sha512"
+hash = "0791c877a0d952e7f3974125b96ceaab3339af37db35b0c7f570aca46d1ba3f67c1bf7af764104d58b0f3c1b16f83e127fb6c443f9678e9cd1fb10866ba62bf8"
+
+[update]
+[update.modrinth]
+mod-id = "h2oJx6S7"
+version = "8iKN6tos"

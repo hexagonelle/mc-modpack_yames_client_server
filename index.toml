@@ -2981,6 +2981,11 @@ hash = "69ef48ad58daf7a97eeda5d497d8c162e979f854c7943f1a788421299b6c62db"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "d90c3eb6da9c567e39f4ad829eb71fa3244956e6debb7b4eca70d85f5f4dab0a"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "1b31cb793a692d9f692b233eab37e6fed156f7b05c4a2080a75ea6c06c38c178"
 metafile = true
@@ -3226,8 +3231,18 @@ hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
 metafile = true
 
 [[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "136205914a8e3370ac4ab6d4f1a14d755921c176964867fef8d4ca945e32515f"
+file = "mods/corpse-x-cosmetic-armor-reworked-compat.pw.toml"
+hash = "d9b35e74545f255a4515a3a815b32be3fe0d10095da07630709ba9f81c6acb8e"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "c287631064c1179bea1c515d8f6202f7c18595498242110bc882e8a1aed8382a"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "2fba2317a375669ccb1376525d4d4e0d1903cc5dc44fc70dce1d0e3dbb6aacb1"
 metafile = true
 
 [[files]]
@@ -4001,6 +4016,11 @@ hash = "2f406a5001889805b137574244ca05274d63ef8875891f9eb76c160d7569bebb"
 metafile = true
 
 [[files]]
+file = "mods/more-geodes-reforged.pw.toml"
+hash = "37a45e147305e5d15b0abfe2a7201781ebc826396897d39938df78287c318cd2"
+metafile = true
+
+[[files]]
 file = "mods/morejs.pw.toml"
 hash = "fc6c3ef7784d2da83201a262e90dfa01c4cd5cf1e65ec3fd68e8662572c90e88"
 metafile = true
@@ -4421,6 +4441,11 @@ hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
+file = "mods/totem-of-recovery.pw.toml"
+hash = "6c87d751e0752affe033d288c1088604867c267ada655003225faaf7d013071b"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "7e1a756df25f645bc5e3dd434d0c673ca30c70c1482a84b11b0065e08cf51e6d"
 metafile = true
@@ -4570,6 +4595,11 @@ hash = "9995fc0f9650e6edfb2fc94c76a036cdb30a680b356fd36be0b5237984b13ae9"
 metafile = true
 
 [[files]]
+file = "resourcepacks/blockier-goat-horn.pw.toml"
+hash = "c37e5e523342078805bf8810632802af12670b8d25d4f835373953cbc7222feb"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cluttered_everycomp_fix.pw.toml"
 hash = "f1fb6f3fc4d62166c408f61566f11382c974bf9a1b8e155e4b99efd9ad799291"
 metafile = true
@@ -4657,6 +4687,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/reimagined_test.pw.toml"
 hash = "85f632e1120cc528fe3bd1a96f9b9d4ad25cec6d7adc854ba214a3d83902ee73"
+metafile = true
+
+[[files]]
+file = "resourcepacks/revived-farmers-delight-crops-3d.pw.toml"
+hash = "9960ade10e14065c58bfb9741b5047ca8e8e9bd6827df44839f10f74f553a317"
 metafile = true
 
 [[files]]
