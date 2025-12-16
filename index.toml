@@ -2298,6 +2298,10 @@ file = "defaultconfigs/constructionwand-server.toml"
 hash = "a8bab37e9bb6e402f5ca888f94bdb2719350d79a5fe76eb46654115cc0c8e37f"
 
 [[files]]
+file = "defaultconfigs/corpse-server.toml"
+hash = "d1dcd34839657803590b01b19a5d20b160bd8783dff8a5de4e470dd6948e62d8"
+
+[[files]]
 file = "defaultconfigs/create_enchantment_industry-server.toml"
 hash = "16c2b6fbd8da6f0ec44a6b3c81cb95ab85805031c94f7f2c60aab3073006a2cb"
 
@@ -2306,20 +2310,8 @@ file = "defaultconfigs/create_hypertube-server.toml"
 hash = "c54c52d33caab0e717b7c197a3490b45dbe6fc1bf8f2a7cbc7a0b8f81bddacc5"
 
 [[files]]
-file = "defaultconfigs/framedblocks-server.toml"
-hash = "54199e678a9f93fd7d3b0cb91dd7d6a51aa2320d0177ac32843d099bfb1f687f"
-
-[[files]]
-file = "defaultconfigs/jei-server.toml"
-hash = "a2c471a122f469dfbdb3bedff095280456d7373263961682c11b0a9b9042fe55"
-
-[[files]]
 file = "defaultconfigs/paintings-server.toml"
 hash = "92a9a67f1b6d4765431952c3d8ef711f0164fbf024a822aee0810f8adff9247e"
-
-[[files]]
-file = "defaultconfigs/torchslabmod-server.toml"
-hash = "b11de25973bf5ea84300d3d840186bd3792d6e23f51818837c809d8d1e73adef"
 
 [[files]]
 file = "keybind_bundles.json"
