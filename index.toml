@@ -2814,6 +2814,10 @@ file = "kubejs/server_scripts/silentgear_supplementaries.js"
 hash = "bb455001009a32e5a917aaf6c733d12214295104de02c7ac60fe55bb99adba83"
 
 [[files]]
+file = "kubejs/server_scripts/spyglassimprovements.js"
+hash = "2e300b1be3af45ab5ca4412a6346453a4e168cb8e367554e8c9d1be71b0c0b18"
+
+[[files]]
 file = "kubejs/server_scripts/supplementaries.js"
 hash = "4428f28771d5beb5ed853c652bbd4aa7dc24d7d36ec0759f97aadb5e9c00eb1a"
 
@@ -3897,11 +3901,6 @@ hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
-metafile = true
-
-[[files]]
 file = "mods/lmd.pw.toml"
 hash = "6aa6897a3227a41db128aef512ad6e6cf33e3c3b806973f94bf63a2eed69f4df"
 metafile = true
@@ -4073,7 +4072,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "f3d90ba50bd56c8140fe9ad4c87ab8aa7fcabc6ec5e7e6c4743d8ac9399c93fd"
+hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
 
 [[files]]
@@ -4394,11 +4393,6 @@ metafile = true
 [[files]]
 file = "mods/teams-hud.pw.toml"
 hash = "cf23e901a81e762f858c0c7d7b48e7b7a394812c398898f8cd95921c5e9649b1"
-metafile = true
-
-[[files]]
-file = "mods/tectonic.pw.toml"
-hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
 metafile = true
 
 [[files]]
