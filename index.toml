@@ -3697,6 +3697,21 @@ hash = "305c717aba8b85fa1bc453954a2e04d2babf40efc025ba7b5270bdff6d40e92c"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "66206b66ab8d3a44fc67d44640398466630e18d02d3efdeb46f3134022284eb6"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "450e23b3e692360eee6fd55fc640b391eff8f4e5714ccc69bafb837685ae8e96"
+metafile = true
+
+[[files]]
 file = "mods/fuelgoeshere.pw.toml"
 hash = "cd76307917fa6de9c42dfb7a4991988bd0e3dd44ce59f47af6f6974afc0db345"
 metafile = true
