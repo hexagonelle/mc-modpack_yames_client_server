@@ -1,6 +1,6 @@
 ServerEvents.recipes(event => {
 	
-	event.remove({geodes:echo_locator});
+	event.remove({output:"geodes:echo_locator"});
 
 });
 
@@ -18,7 +18,7 @@ const baseCrystalList = [
 	"gypsum_crystal"
 ]
 
-const geodeList = buddingList.map((e,i)=>[e,b[i]]);
+const geodeList = buddingList.map((e,i)=>[e,baseCrystalList[i]]);
 
 LootJS.modifiers(event => {
 

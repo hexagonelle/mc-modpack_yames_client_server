@@ -2767,7 +2767,7 @@ hash = "621d58b63458f0540d6b9968e7c82854690654c33cfd2accdf57e210fd7149b8"
 
 [[files]]
 file = "kubejs/server_scripts/geodes.js"
-hash = "0304a8c401e90c8dcaf1f4f07cc10e9ca65e9267641b39bf101919e95526580c"
+hash = "180317dd9781b80801b44b8c6469903c84ad7ef80947f77d052b9ed3b703e04c"
 
 [[files]]
 file = "kubejs/server_scripts/handcrafted.js"
@@ -3112,6 +3112,11 @@ hash = "c67156797b7e0dace959382b1d21f0431e0d1482f3d5d1d0e5733089a87f093b"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "6f9ada4ae8dfcf29a7071e0eec596d8408e6e9091385db8fd1cddd0c2d89217a"
 metafile = true
@@ -3192,11 +3197,6 @@ hash = "7981cc78d8cb003af39d161cfe26173c3cbdb327b47bce79fc61123c915fb9e0"
 metafile = true
 
 [[files]]
-file = "mods/configured.pw.toml"
-hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
-metafile = true
-
-[[files]]
 file = "mods/connectible-chains-forge.pw.toml"
 hash = "10e3d014bd3927d75f0969c35fa9296073b8987975aa6a059771a7571e35dd38"
 metafile = true
@@ -3244,6 +3244,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "b3f742885ef7b4bb5eae01716ab1b6b8e3e4b94712b0d922dced831ae30866f8"
 metafile = true
 
 [[files]]
@@ -3389,6 +3394,11 @@ metafile = true
 [[files]]
 file = "mods/create_oxidized.pw.toml"
 hash = "46a8e2d0b10f2c1aec37850dccea50c99ebbf8435108b246017bddeb2b12e847"
+metafile = true
+
+[[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "e32c9fced8690cbcee779dcf9b48d38e4f8cf6076ec4bcead8c8a834fc6808c4"
 metafile = true
 
 [[files]]
@@ -3672,6 +3682,11 @@ hash = "62e8f9c97fc1365d40025e696cdfc71e5df4b8b829c04db5e7055b5476b9e0a7"
 metafile = true
 
 [[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "51a92411c991732cb5e81f86754e177bc8fbd4f6d7bb02940e1d4852ca961540"
 metafile = true
@@ -3754,6 +3769,11 @@ metafile = true
 [[files]]
 file = "mods/idas.pw.toml"
 hash = "675609a9fb0ed19788e460191f2fba6279e56e63d702c3d506e6e1a1c0c9ffb0"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
@@ -3987,6 +4007,11 @@ hash = "8c0b39fe7dcf2de0a30bc02f07e6c23d500790dc07853be246e057b97065febb"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace-reforged.pw.toml"
+hash = "4b145c7939f87a21c8317bcfc5909f08f440f2936f1b6c80ce0c0cc88ff0aef9"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "186909f73870979511db893fca2e2a318b311361f168d425ba0e58fc539188ee"
 metafile = true
@@ -4044,6 +4069,11 @@ metafile = true
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 hash = "d8bade3bf5ab82d9b3f185bff6c5630cfa4319f331c12d0b6ee226d65eb8b345"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "e6de05ff93544874f2e8a8f6646def228e877aad97396d14e43b9996849a4eab"
 metafile = true
 
 [[files]]
@@ -4459,6 +4489,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
+metafile = true
+
+[[files]]
+file = "mods/treasuredistance.pw.toml"
+hash = "9b3806ed06a7383be81f9347fe337035c79ddeb488578bd5294fbec3ff64f3b7"
 metafile = true
 
 [[files]]
