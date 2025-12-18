@@ -3417,6 +3417,11 @@ hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
+file = "mods/decorative-bags.pw.toml"
+hash = "32c1257a3422694d6f7c4af1ec53e955432f43f456bbff894cf8c14008c0d123"
+metafile = true
+
+[[files]]
 file = "mods/decorative-core.pw.toml"
 hash = "a7f4ddaae943d99cf5f3de68a2b4a6a016da695078cbcf108b0d97d0edd4ac71"
 metafile = true

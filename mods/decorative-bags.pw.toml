@@ -1,0 +1,13 @@
+name = "Decorative Bags"
+filename = "decorative_bags-1.0008-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wELUtzbw/versions/vMA6yw0q/decorative_bags-1.0008-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "7fc227d5a5868c17728c4af3bc0b0fb5bfccc3abbbe8618c4a4c16ab433bb7343eb9fcc3375b78ad4750a7f51b8e7af96ece58e5ab3783742d01cc2e2571a250"
+
+[update]
+[update.modrinth]
+mod-id = "wELUtzbw"
+version = "vMA6yw0q"
