@@ -2942,6 +2942,11 @@ hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
 metafile = true
 
 [[files]]
+file = "mods/apple-crates.pw.toml"
+hash = "2844aa0a3fc6556945bdae697bb5657f488b6bc9ed5e0c3a9226f1c1cc3ba4ef"
+metafile = true
+
+[[files]]
 file = "mods/applesaplings.pw.toml"
 hash = "603d22a0ec972034195ce9afa3d6eb5bffcd144a928e77131601762044476c1d"
 metafile = true
