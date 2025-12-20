@@ -44,5 +44,8 @@ LootJS.modifiers(event => {
 		silkTouchGeodes(event,geode)
 	})
 
+	// Blast pyrite into iron: 
+	event.blasting('2x minecraft:iron_ingot', 'geodes:pyrite')
 	
+
 });

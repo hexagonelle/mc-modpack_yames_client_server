@@ -2767,7 +2767,7 @@ hash = "621d58b63458f0540d6b9968e7c82854690654c33cfd2accdf57e210fd7149b8"
 
 [[files]]
 file = "kubejs/server_scripts/geodes.js"
-hash = "180317dd9781b80801b44b8c6469903c84ad7ef80947f77d052b9ed3b703e04c"
+hash = "8eeb154ed6708219776d2552a0f2523d258b761bb9ec66b9be6fb577e19ee4d3"
 
 [[files]]
 file = "kubejs/server_scripts/handcrafted.js"
@@ -3259,6 +3259,11 @@ metafile = true
 [[files]]
 file = "mods/create-air-ducts.pw.toml"
 hash = "3408f06ce6a490e8f2c8df7874408b12e156acda6cbc3550550612584e8786de"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "331b1388486c423326b7dbcff6bea79ea85fcf9088d2aefe3d8cc04e921fa66a"
 metafile = true
 
 [[files]]
