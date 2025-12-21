@@ -1,0 +1,13 @@
+name = "Colorful Lighting Sodium Compat"
+filename = "colorful_lighting-1.20.1-1.8.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ODD08EMu/versions/SaY8MVxf/colorful_lighting-1.20.1-1.8.3.jar"
+hash-format = "sha512"
+hash = "4f1bb291c4186bf0bd69d75ba0cb679be41ec11d0873f285bc638f46307da6ea9930ef01385bbafbe370a10684893f2e0380567c765bf4883f9ab9c7ecece83f"
+
+[update]
+[update.modrinth]
+mod-id = "ODD08EMu"
+version = "SaY8MVxf"

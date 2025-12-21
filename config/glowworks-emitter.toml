@@ -1,0 +1,202 @@
+
+#Setting the block's color to be emitted in 3 ways: HEX, RGB, or COLOR-NAME
+#EXAMPLE:
+#    [minecraft]
+#        [minecraft.blocks]
+#            lava = "#FFFF00"					COMMENT: is a HEX: yellow
+#            brown_mushroom = [136, 68, 17]		COMMENT: is a RGB: brown. NOTE: It's an ARRAY, not STRING.
+#            redstone_lamp = "red"				COMMENT: no need for an explanatory
+#            soul_torch = "purple;5"			COMMENT: override light level emission
+#            oak_leaves = "light_blue;F"		COMMENT: value after ';' is a hex number from 0 to F
+#
+[minecraft]
+
+	[minecraft.blocks]
+		lava = "[255,102,17]"
+		brown_mushroom = "[136,68,17]"
+		torch = "[255,255,0]"
+		wall_torch = "[255,255,0]"
+		fire = "[255,255,255]"
+		soul_fire = "[0,0,255]"
+		furnace = "[255,255,255]"
+		redstone_ore = "[255,0,0]"
+		deepslate_redstone_ore = "[255,0,0]"
+		redstone_torch = "[255,0,0]"
+		redstone_wall_torch = "[255,0,0]"
+		soul_torch = "[0,0,255]"
+		soul_wall_torch = "[0,0,255]"
+		glowstone = "[255,255,255]"
+		nether_portal = "[255,255,255]"
+		jack_o_lantern = "[255,255,255]"
+		glow_lichen = "[255,255,255]"
+		enchanting_table = "[255,255,255]"
+		brewing_stand = "[255,255,255]"
+		lava_cauldron = "[255,255,255]"
+		end_portal = "[255,255,255]"
+		end_portal_frame = "[255,255,255]"
+		dragon_egg = "[153,17,238]"
+		redstone_lamp = "[255,0,0]"
+		ender_chest = "[255,255,255]"
+		beacon = "[255,255,255]"
+		sea_lantern = "[153,187,204]"
+		end_rod = "[255,255,255]"
+		end_gateway = "[255,255,255]"
+		magma_block = "[255,255,255]"
+		sea_pickle = "[153,187,204]"
+		conduit = "[255,255,255]"
+		smoker = "[255,255,255]"
+		blast_furnace = "[255,255,255]"
+		lantern = "[255,255,255]"
+		soul_lantern = "[0,0,255]"
+		campfire = "[255,255,255]"
+		soul_campfire = "[0,0,255]"
+		shroomlight = "[255,255,255]"
+		crying_obsidian = "[153,17,238]"
+		candle = "[255,255,255]"
+		white_candle = "[255,255,255]"
+		orange_candle = "[255,102,17]"
+		magenta_candle = "[255,0,255]"
+		light_blue_candle = "[0,0,255]"
+		yellow_candle = "[255,255,0]"
+		lime_candle = "[187,255,0]"
+		pink_candle = "[255,102,170]"
+		gray_candle = "[119,119,119]"
+		light_gray_candle = "[119,119,119]"
+		cyan_candle = "[0,255,255]"
+		purple_candle = "[153,17,238]"
+		blue_candle = "[0,0,255]"
+		brown_candle = "[136,68,17]"
+		green_candle = "[0,255,0]"
+		red_candle = "[255,0,0]"
+		black_candle = "[0,0,0]"
+		candle_cake = "[255,255,255]"
+		white_candle_cake = "[255,255,255]"
+		orange_candle_cake = "[255,102,17]"
+		magenta_candle_cake = "[255,0,255]"
+		light_blue_candle_cake = "[0,0,255]"
+		yellow_candle_cake = "[255,255,0]"
+		lime_candle_cake = "[187,255,0]"
+		pink_candle_cake = "[255,102,170]"
+		gray_candle_cake = "[119,119,119]"
+		light_gray_candle_cake = "[119,119,119]"
+		cyan_candle_cake = "[0,255,255]"
+		purple_candle_cake = "[153,17,238]"
+		blue_candle_cake = "[0,0,255]"
+		brown_candle_cake = "[136,68,17]"
+		green_candle_cake = "[0,255,0]"
+		red_candle_cake = "[255,0,0]"
+		black_candle_cake = "[0,0,0]"
+		amethyst_cluster = "[153,17,238]"
+		large_amethyst_bud = "[153,17,238]"
+		medium_amethyst_bud = "[153,17,238]"
+		small_amethyst_bud = "[153,17,238]"
+		sculk_sensor = "[255,255,255]"
+		calibrated_sculk_sensor = "[255,255,255]"
+		sculk_catalyst = "[255,255,255]"
+		cave_vines = "[255,255,255]"
+		cave_vines_plant = "[255,255,255]"
+		ochre_froglight = "[255,255,255]"
+		verdant_froglight = "[255,255,255]"
+		pearlescent_froglight = "[255,255,255]"
+
+[cataclysm]
+
+	[cataclysm.blocks]
+		ignitium_block = "[255,255,255]"
+		void_infused_end_stone_bricks = "[255,255,255]"
+		void_stone = "[255,255,255]"
+		void_crystal = "[255,255,255]"
+		void_lantern_block = "[255,255,255]"
+		purpur_void_rune_trap_block = "[255,255,255]"
+		end_stone_teleport_trap_bricks = "[255,255,255]"
+		obsidian_explosion_trap_bricks = "[255,255,255]"
+		altar_of_fire = "[255,255,255]"
+		altar_of_void = "[255,255,255]"
+		altar_of_amethyst = "[153,17,238]"
+		altar_of_abyss = "[255,255,255]"
+		emp = "[255,255,255]"
+		abyssal_egg = "[255,255,255]"
+		melting_netherrack = "[255,255,255]"
+
+[create]
+
+	[create.blocks]
+		lit_blaze_burner = "[255,255,255]"
+		elevator_contact = "[255,255,255]"
+		refined_radiance_casing = "[255,255,255]"
+		nixie_tube = "[255,255,255]"
+		white_nixie_tube = "[255,255,255]"
+		magenta_nixie_tube = "[255,0,255]"
+		light_blue_nixie_tube = "[0,0,255]"
+		yellow_nixie_tube = "[255,255,0]"
+		lime_nixie_tube = "[187,255,0]"
+		pink_nixie_tube = "[255,102,170]"
+		gray_nixie_tube = "[119,119,119]"
+		light_gray_nixie_tube = "[119,119,119]"
+		cyan_nixie_tube = "[0,255,255]"
+		purple_nixie_tube = "[153,17,238]"
+		blue_nixie_tube = "[0,0,255]"
+		brown_nixie_tube = "[136,68,17]"
+		green_nixie_tube = "[0,255,0]"
+		red_nixie_tube = "[255,0,0]"
+		black_nixie_tube = "[0,0,0]"
+		rose_quartz_lamp = "[255,255,255]"
+		experience_block = "[255,255,255]"
+
+[malum]
+
+	[malum.blocks]
+		spirit_mote = "[255,255,255]"
+		ether = "[255,255,255]"
+		ether_torch = "[255,255,0]"
+		wall_ether_torch = "[255,255,0]"
+		tainted_ether_brazier = "[255,255,255]"
+		twisted_ether_brazier = "[255,255,255]"
+		iridescent_ether = "[255,255,255]"
+		iridescent_ether_torch = "[255,255,0]"
+		iridescent_wall_ether_torch = "[255,255,0]"
+		tainted_iridescent_ether_brazier = "[255,255,255]"
+		twisted_iridescent_ether_brazier = "[255,255,255]"
+		blazing_quartz_ore = "[255,255,255]"
+		blazing_quartz_cluster = "[255,255,255]"
+		block_of_blazing_quartz = "[255,255,255]"
+		block_of_auric_embers = "[255,255,255]"
+
+[create_new_age]
+
+	[create_new_age.blocks]
+		reactor_rod = "[255,255,255]"
+
+[ftbquests]
+
+	[ftbquests.blocks]
+		barrier = "[255,255,255]"
+		stage_barrier = "[255,255,255]"
+
+[silentgear]
+
+	[silentgear.blocks]
+		stone_torch = "[255,255,0]"
+		wall_stone_torch = "[255,255,0]"
+		phantom_light = "[255,255,255]"
+
+[kubejs]
+
+	[kubejs.blocks]
+		white_hue_lamp = "[255,255,255]"
+		light_gray_hue_lamp = "[255,255,255]"
+		gray_hue_lamp = "[255,255,255]"
+		black_hue_lamp = "[255,255,255]"
+		brown_hue_lamp = "[255,128,0]"
+		red_hue_lamp = "[255,0,0]"
+		orange_hue_lamp = "[255,128,0]"
+		yellow_hue_lamp = "[255,255,0]"
+		lime_hue_lamp = "[128,255,0]"
+		green_hue_lamp = "[0,255,0]"
+		cyan_hue_lamp = "[0,255,170]"
+		light_blue_hue_lamp = "[0,255,255]"
+		blue_hue_lamp = "[0,0,255]"
+		purple_hue_lamp = "[128,0,255]"
+		magenta_hue_lamp = "[255,0,255]"
+		pink_hue_lamp = "[255,136,140]"
+

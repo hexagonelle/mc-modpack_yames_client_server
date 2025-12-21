@@ -1357,6 +1357,10 @@ file = "config/framedblocks-common.toml"
 hash = "17dc2abe788115bd9bba669d652d7146190b0dfbb4c047d4ddb20231540e3de1"
 
 [[files]]
+file = "config/glowworks-emitter.toml"
+hash = "33b570b3aca3cdfdad77bc760bd2a0102c22f6c2c30de9f282ad158c626c9ffa"
+
+[[files]]
 file = "config/hardcorerevival-common.toml"
 hash = "558adf920bc1f74b77709f57086177787dd7dcfda9dbab629878d465283e32dc"
 
@@ -2414,6 +2418,18 @@ file = "kubejs/assets/kubejs/models/item/lantern_housing.json"
 hash = "6a5cc5bf8ca1f7815b7548cc958770a6be59e388b14e069b036bbae39104bde9"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/black_hue_lamp.png"
+hash = "f1e0e520508ad5979a74a840348a332713fa1af156d1acfd2b9475cc09f7f470"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/blue_hue_lamp.png"
+hash = "22c8bf306d2fcc0268a967d7f87397b723eeb946cb177ed9ef26a92e22121b5e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/brown_hue_lamp.png"
+hash = "1a21d9e5e5f4460cfde515462002f60acc5f8c160e24a0b3eb1bd51c074fc094"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/cobbled_deepslate.png"
 hash = "368f505f250f950ff186ff0a92a9b810a2165a0750fa93f2b5bd6f0f3b20f094"
 
@@ -2436,6 +2452,10 @@ hash = "f8ed8ea114d7efeda175cdf69b9445e07f0ebc54837f81e92d7df49b0c331f13"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/compressed_cobblestone.png"
 hash = "726dc8c682df18fa895ef130329e8691b55edb7d0bfbb4f53a36b64dfcb72ff8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/cyan_hue_lamp.png"
+hash = "da52336bf6a364d12fd257a56e9d4ae0157e06ebc2c55cb890343cb52569606e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/double_compressed.png"
@@ -2466,6 +2486,14 @@ file = "kubejs/assets/kubejs/textures/block/glowing_obsidian.png"
 hash = "92d7ab074114edc77cad20a3fc6b8801bd52bf6819a839308e3c1a783142f133"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/gray_hue_lamp.png"
+hash = "1c7895352496893b6b83b5c52f29e33ab6174ac8573495044c1f57bf1335ebe4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/green_hue_lamp.png"
+hash = "fdb250defcb20703df2853d067cea8ccec899f1664c2832c3554b74663c3be87"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/hextuple_compressed.png"
 hash = "e33910f765ab67aba0b5cf993ee6e4dfe21d5b77fb8896cd4966dd4dd5956c48"
 
@@ -2484,6 +2512,34 @@ hash = "0ba2da08185a884b186946beb2a16a68a5d9393b871cdd713f8eb601b3bd7a8e"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_cobblestone.png"
 hash = "a3acc838fc8def97b2efdb60a325f6c6a91f1697e8753b61330bab0961e515a2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/light_blue_hue_lamp.png"
+hash = "d105c22bfa6c749aa671925c5afebbb8feec482cb29eb02685d04648d150b0b4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/light_gray_hue_lamp.png"
+hash = "0a07347d4ad9ad31bec66dc2e2d3bccf9ba8e9887a7f78ea600813890c29da73"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/lime_hue_lamp.png"
+hash = "ff38027b80c9aa796d373247c7737c430ce7d30fffda906b0cd55fb4c5f94afa"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/magenta_hue_lamp.png"
+hash = "2609921607a23a6e374505284543ac54a0e7c80a47fb38f3ff09b94d2b99dacc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/orange_hue_lamp.png"
+hash = "2b3e83e1dbf122b4e62fd375b59a82233379188be052218501ae55e07dd1fc51"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/pink_hue_lamp.png"
+hash = "7f2320eebb053da4627f6fe947437e956cc891d10c994fc0c87d7c60f7fc65be"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/purple_hue_lamp.png"
+hash = "25346d8911292f1d4e80a2b64f895fb296bc38d2353b39445263a6afb753d10c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/quadruple_compressed.png"
@@ -2526,6 +2582,10 @@ file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_cobblestone.png
 hash = "81917abdf1ff6388844b514b53d11d5b03f1bd84de328f12cfb05586436da8d0"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/red_hue_lamp.png"
+hash = "a64fea4705671f8d2a485a1e9565960463d4b8e7d629a898382ddb7ad30a59b0"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/single_compressed.png"
 hash = "2f6aa9d111b3256c87f26294b1cdc9dc49bc2ab4a400c89b19531e2eba922c27"
 
@@ -2550,12 +2610,24 @@ file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobblestone.png"
 hash = "f60f4363b291167ff4a13f94a1650aabab9a34c114f4ec853ce239a1cc762b0b"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/white_hue_lamp.png"
+hash = "d9134d2554a87ccd43ddbddc76b32c28be3a48d961d142c2702c159bbb8e507a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/yellow_hue_lamp.png"
+hash = "10f83b01cda2c0087dfcefccdde666a59d5c682f2ca95cd3fd172d6f8f71bd63"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/baby_charcoal.png"
 hash = "2ee147fd6434e0bc4ae7ef1bb9ac5bc7d8b648e0bbb54b4a8223415613257bfb"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/baby_coal.png"
 hash = "c10cf783d704e45eced819e4a71eace1ad10505e34feb87e7eba98c63bcedefc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/charred_skull_fragment.png"
+hash = "3baa4dd5b202a99ab9cffec2ff8116170fcd858a6fd5148c95c9d656696ea67f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
@@ -2694,12 +2766,20 @@ file = "kubejs/server_scripts/custom-compressedblocks_quark.js"
 hash = "6b312d6ad0d8d0f0f681563fc330be3e386dc09286115647510b5d69ed40641e"
 
 [[files]]
+file = "kubejs/server_scripts/custom-huelamps.js"
+hash = "0614398e1f0cb6e7564319366bf2cdfb3ccc2309fda001a05879d2b95587deca"
+
+[[files]]
 file = "kubejs/server_scripts/custom-lanternhousing.js"
 hash = "57f49d6ae249814553dee08b67f61da930f4add6bcd0695caa4703c3778dd9b1"
 
 [[files]]
 file = "kubejs/server_scripts/custom-lanternhousing_realistictorches.js"
 hash = "39a6a0adc67afcfd416726be896e7bb815bf7c8e15e810bee6088fd5c405edd4"
+
+[[files]]
+file = "kubejs/server_scripts/custom-witherskellytweaks.js"
+hash = "b64b68007402c492e47f0ff4016145a2d61569b7ae29540a9e565b87f4e48297"
 
 [[files]]
 file = "kubejs/server_scripts/delightful_hexerei_immersive-weathering.js"
@@ -2846,12 +2926,20 @@ file = "kubejs/startup_scripts/custom-glowing_obsidian.js"
 hash = "2d733de3344d76d24601aa259c1039aeb2628f6b3485abe48c093b41b1306de0"
 
 [[files]]
+file = "kubejs/startup_scripts/custom-huelamps.js"
+hash = "819eb9a7b9a5dd9f29fcdb4608e3ef6a782ed90d228e44a4c0f5957d042e54ae"
+
+[[files]]
 file = "kubejs/startup_scripts/custom-lantern_housing.js"
 hash = "49c6b671cf5aeb793c814926654ae80cac58179b44927a8e1015569d5e4f6bf9"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-litematicstaff.js"
 hash = "dc4ee2cb355296519b90cdc99625887bdaf3867deb89c2c8f7c0b89e9e97eca6"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-witherskellytweaks.js"
+hash = "f6cdd22248d005fdd7526136141a00e588dc6d29e72d7042cf377819e0ccd9bf"
 
 [[files]]
 file = "kubejs/startup_scripts/villager_enchants_infobook.js"
@@ -2879,6 +2967,11 @@ metafile = true
 [[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "66a79717f4a689747f38dbc95e0501ae4c44af056a2319529d2434c4a3b08b3c"
+metafile = true
+
+[[files]]
+file = "mods/additional-lights.pw.toml"
+hash = "760b9fc6688b0f2caed2dfa42fe41862c72c81e361deb5a73a5c7fa200873e7d"
 metafile = true
 
 [[files]]
@@ -3122,11 +3215,6 @@ hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
-file = "mods/cb-multipart.pw.toml"
-hash = "6f9ada4ae8dfcf29a7071e0eec596d8408e6e9091385db8fd1cddd0c2d89217a"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "e271d3f6a204153ea55370a2fab28e6ed329ab020d05fc9b03a5163065384dec"
 metafile = true
@@ -3187,11 +3275,6 @@ hash = "c6266e6abc3eb46a62db3d106a915c78d8bd40502e45c23c729bad7e21de1141"
 metafile = true
 
 [[files]]
-file = "mods/codechicken-lib.pw.toml"
-hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 metafile = true
@@ -3199,6 +3282,11 @@ metafile = true
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "7981cc78d8cb003af39d161cfe26173c3cbdb327b47bce79fc61123c915fb9e0"
+metafile = true
+
+[[files]]
+file = "mods/colorful-lighting-sodium-compat.pw.toml"
+hash = "6bcfc65352cb4380112480f721152376ecd361a4552ed17d6fcccfe5e97f773e"
 metafile = true
 
 [[files]]
@@ -3742,6 +3830,11 @@ hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
+file = "mods/glowworks.pw.toml"
+hash = "e79dc0d2cc2cf7fd9f96103f5d1998809398cacad6b253d142b3cf1b15fd047a"
+metafile = true
+
+[[files]]
 file = "mods/gml.pw.toml"
 hash = "3230a700b8083d1999523c5e77f7c9b14ed106059a8683ca780a06ab801231fb"
 metafile = true
@@ -4067,6 +4160,11 @@ hash = "37a45e147305e5d15b0abfe2a7201781ebc826396897d39938df78287c318cd2"
 metafile = true
 
 [[files]]
+file = "mods/more-red.pw.toml"
+hash = "ea4a8be0d3d889f0240a975a2ba25d8c39c29900fe47de950b667dd7f5c69a88"
+metafile = true
+
+[[files]]
 file = "mods/morejs.pw.toml"
 hash = "fc6c3ef7784d2da83201a262e90dfa01c4cd5cf1e65ec3fd68e8662572c90e88"
 metafile = true
@@ -4177,6 +4275,11 @@ hash = "3d039d564c8b778390781edadf1891d56593e708aa40afdacaad5cce2004e46a"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "aed7f8cfd6f50c5a0c3209907e3b615242e77ddcf5652610a81511c752fec3f1"
 metafile = true
@@ -4222,6 +4325,11 @@ hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
+file = "mods/platforms.pw.toml"
+hash = "be1fdcb92e3a4b0c918fd920bdf80ee26431a5f1e62aa304cb29824bca2a1d1e"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
@@ -4244,26 +4352,6 @@ metafile = true
 [[files]]
 file = "mods/pots-and-mimics-rpg.pw.toml"
 hash = "cc335b14ea69222d7aa291f5faf4eeb8d27d1246c22c305a73c7a01f31e98d67"
-metafile = true
-
-[[files]]
-file = "mods/project-red-core.pw.toml"
-hash = "11235263add95d02a50cef25f363a02aa1cf90e43773c1c4889a71a67192cdb4"
-metafile = true
-
-[[files]]
-file = "mods/project-red-illumination.pw.toml"
-hash = "46547b3f613fea02d078fbb86cae07aa3abdbe5197ae61b617c169069bcd940e"
-metafile = true
-
-[[files]]
-file = "mods/project-red-integration.pw.toml"
-hash = "3655f9bbd83aaa65be40e40a9961da4c97dee82622a44a30b7e0cded4eb1a88b"
-metafile = true
-
-[[files]]
-file = "mods/project-red-transmission.pw.toml"
-hash = "3374b17465daf9ca3eb5c069d1ee6043ba8b3a0dbe3a219212d24d3894ab4764"
 metafile = true
 
 [[files]]
@@ -4344,6 +4432,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "a84f8e46ba2d693bfbdec682ca66213e2e0783395c9af34f8b22d460d3952a4c"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "16edf463baf8c96e0f13487f86c5933c512493a188d45f843db724baac2f12fd"
 metafile = true
 
 [[files]]
@@ -4489,6 +4582,11 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
+metafile = true
+
+[[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "085d67a04dc1c51ab204714b02d4082de957ee8541be4a69a59f1b6895734638"
 metafile = true
 
 [[files]]
