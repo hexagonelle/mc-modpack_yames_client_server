@@ -35,7 +35,11 @@ ServerEvents.recipes(event=> {
 	function hueLampRecipe(event,color){
 		event.shapeless(
 			'kubejs:' + color + '_hue_lamp',
-			['forge:hue_lamp', "minecraft:" + color + "_dye"]
+			['#forge:hue_lamp', "minecraft:" + color + "_dye"]
 		)
 	}
+
+	minecraftColors.forEach(color =>{
+		hueLampRecipe(event,color)
+	})
 })

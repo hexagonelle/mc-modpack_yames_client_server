@@ -22,7 +22,7 @@ hash = "fe2ddeb88530b387a2daf4ffced9cb4e05480b4f60a7504961bd59f9b83950cd"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "91e4cb0332c710879c69ef5e401fd1419b905aaccc1e0975047caa9ea6b84210"
+hash = "5b6ee40b93f0f5c47fdaedc292d72fe55268e9d0405250812aaebc4d5e12f9eb"
 
 [[files]]
 file = "config/achievement_optimizer/Achievement-Optimizer.toml"
@@ -2767,7 +2767,7 @@ hash = "6b312d6ad0d8d0f0f681563fc330be3e386dc09286115647510b5d69ed40641e"
 
 [[files]]
 file = "kubejs/server_scripts/custom-huelamps.js"
-hash = "0614398e1f0cb6e7564319366bf2cdfb3ccc2309fda001a05879d2b95587deca"
+hash = "f505658aa7694962c2a461ea6208ee07023e465e986aaef80e220d8a6542dce7"
 
 [[files]]
 file = "kubejs/server_scripts/custom-lanternhousing.js"
@@ -2847,7 +2847,7 @@ hash = "621d58b63458f0540d6b9968e7c82854690654c33cfd2accdf57e210fd7149b8"
 
 [[files]]
 file = "kubejs/server_scripts/geodes.js"
-hash = "8eeb154ed6708219776d2552a0f2523d258b761bb9ec66b9be6fb577e19ee4d3"
+hash = "681892b18a4c2b0d5480efee2b83a01b081f703c5c130d9989b02a1e5e16e4dd"
 
 [[files]]
 file = "kubejs/server_scripts/handcrafted.js"
@@ -3282,11 +3282,6 @@ metafile = true
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "7981cc78d8cb003af39d161cfe26173c3cbdb327b47bce79fc61123c915fb9e0"
-metafile = true
-
-[[files]]
-file = "mods/colorful-lighting-sodium-compat.pw.toml"
-hash = "6bcfc65352cb4380112480f721152376ecd361a4552ed17d6fcccfe5e97f773e"
 metafile = true
 
 [[files]]
@@ -3827,11 +3822,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
-metafile = true
-
-[[files]]
-file = "mods/glowworks.pw.toml"
-hash = "7e4cc4ab11f43e6c769283067a6da92fd16497c26cb78c287c3fd4335a6e773d"
 metafile = true
 
 [[files]]
