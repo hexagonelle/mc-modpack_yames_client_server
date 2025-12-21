@@ -3831,7 +3831,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowworks.pw.toml"
-hash = "e79dc0d2cc2cf7fd9f96103f5d1998809398cacad6b253d142b3cf1b15fd047a"
+hash = "7e4cc4ab11f43e6c769283067a6da92fd16497c26cb78c287c3fd4335a6e773d"
 metafile = true
 
 [[files]]
