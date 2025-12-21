@@ -22,7 +22,7 @@ hash = "fe2ddeb88530b387a2daf4ffced9cb4e05480b4f60a7504961bd59f9b83950cd"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "5b6ee40b93f0f5c47fdaedc292d72fe55268e9d0405250812aaebc4d5e12f9eb"
+hash = "91e4cb0332c710879c69ef5e401fd1419b905aaccc1e0975047caa9ea6b84210"
 
 [[files]]
 file = "config/achievement_optimizer/Achievement-Optimizer.toml"
