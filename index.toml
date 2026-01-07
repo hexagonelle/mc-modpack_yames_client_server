@@ -2658,6 +2658,10 @@ file = "kubejs/config/common.properties"
 hash = "63daee7d9e7c29b95a11ae2152674aa66f7f4c6d3a619cd1b8f83da59d839e8c"
 
 [[files]]
+file = "kubejs/server_scripts/additionallights.js"
+hash = "5740236b26de59922231f5846e0902d8c8bf90b18ca46200b3cb9404e4f0388c"
+
+[[files]]
 file = "kubejs/server_scripts/almostunified.js"
 hash = "97605d1c1f3184ebf0241bd4ddbfc8cc8f857afc0ba50436c4aa472944eea263"
 
@@ -2900,6 +2904,10 @@ hash = "4428f28771d5beb5ed853c652bbd4aa7dc24d7d36ec0759f97aadb5e9c00eb1a"
 [[files]]
 file = "kubejs/server_scripts/vanilla.js"
 hash = "a31ea8c99de1ac6a8038ed1ddd008699154137fe402b8bc814c446ed2115f687"
+
+[[files]]
+file = "kubejs/server_scripts/vintagegrinder.js"
+hash = "b411eeebc5bfe91538dba9999d61bec2bb4327fc605baa25b1615f872175de29"
 
 [[files]]
 file = "kubejs/server_scripts/waystones.js"
@@ -3472,6 +3480,11 @@ metafile = true
 [[files]]
 file = "mods/create-teleporters.pw.toml"
 hash = "6519f1f88567424ff06c462ef2066cfd06871f0d56b83bf753bb3922d1fd4813"
+metafile = true
+
+[[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "de2de998a20ace7b50a6aadc4984343a81343096fe2acec92fb9326be40bb6c5"
 metafile = true
 
 [[files]]
