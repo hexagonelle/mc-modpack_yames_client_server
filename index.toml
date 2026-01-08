@@ -2498,8 +2498,24 @@ file = "kubejs/assets/kubejs/textures/block/double_compressed_andesite.png"
 hash = "8bd23a39a16b38dd91d60d4ea5b988f07f6ddec5a97299e01cf48b4c72298405"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_basalt.png"
+hash = "8e0eebba80e5605435d1acef82a1e161b7a7bbc6d1338b401f9d716f894de31b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_blackstone.png"
+hash = "42f5adca8082a4ebfa0ecedb57ad68a2e1047bfa2318c184b222621ba1c94168"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_calcite.png"
+hash = "d3b5fd9ccd0abb9c54cce846df8bc9c225d84d00429bc2b8ba8481cc29f73df3"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/double_compressed_clay.png"
 hash = "ea2d665123e17b2db0e3898b59426db36b631db6b58b5c8a63a59ddc876a0b50"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_coarse_dirt.png"
+hash = "20b2cf369ee59d9bd063176555f3a309a36d753582412c2f1d0ab62afe3cef45"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/double_compressed_cobbled_deepslate.png"
@@ -2508,6 +2524,10 @@ hash = "110b3268dc4af5b6060a25351b265ca618471120af8347003919c0dccfed9dc5"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/double_compressed_cobblestone.png"
 hash = "bc2233c6149d88194505c22f6faa9b097a20ad59b1e98d66f8f04e3c55e94b96"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_smooth_basalt.png"
+hash = "156ea4a687282d2f114b633833caf7097d669b54925e47346023a5ae19518ab8"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -2534,8 +2554,24 @@ file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_andesite.png"
 hash = "e8c72ad27377e1f7f2797e2bf7ba8b266703316001fdbb50987b328291660adc"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_basalt.png"
+hash = "d31b4c0ce3b3e74975f6a42808d672c8678b19b56b5bb91428c34662e5595b47"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_blackstone.png"
+hash = "73de7f41f2e55d24ae530386cfc1bc320217deeb5e3ea8d132baab79eb505f0b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_calcite.png"
+hash = "f892e37d22b3e9340dbdee3c636edf04a6eb9590ed1a9e8ac017e16043b13b6e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_clay.png"
 hash = "146eade227752ab6510b9ce1917d0388dae1a56f1291681d7cbcb70d1b37c644"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_coarse_dirt.png"
+hash = "9d8ea4de134a71205f5ad8e8fd5b058887b1301e7b440b77f1b1da67fee37d46"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_cobbled_deepslate.png"
@@ -2544,6 +2580,10 @@ hash = "0ba2da08185a884b186946beb2a16a68a5d9393b871cdd713f8eb601b3bd7a8e"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_cobblestone.png"
 hash = "a3acc838fc8def97b2efdb60a325f6c6a91f1697e8753b61330bab0961e515a2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_smooth_basalt.png"
+hash = "95900ce7d400ac622e0c919f068145fe3f1d5877847dfd67de9cd3cdd927db6f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/light_blue_hue_lamp.png"
@@ -2582,8 +2622,24 @@ file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_andesite.png"
 hash = "da86c4891c33136c4ae62bfe0112fbc423a3b51ff105c3b4a7e0eee6ecc6ca81"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_basalt.png"
+hash = "851dc4258f8ce62af7dab8ce5afe9dc5444359789915f6637707fe06af61a2b3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_blackstone.png"
+hash = "e7e9ba3e266700029f174c6a39cb326df385c603ef8c9503629346061280ccd8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_calcite.png"
+hash = "ea100e592b98b0b1adf31806ff7c812f2691d353db9ed27261c4c6a67a49c6b7"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_clay.png"
 hash = "62109f7db662b43dfbca187c24cd5a34ac4773819ff13a478bf8a33c92b3851b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_coarse_dirt.png"
+hash = "98096ef975405a543298a8243fc01c6fff32b9c9aecca2fa40a37de7df84155f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_cobbled_deepslate.png"
@@ -2594,6 +2650,10 @@ file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_cobblestone.png
 hash = "0cb6df57aeecede69270a3238b7fc0dbbff6e4cae7bfba9346d6c3a68cf9a427"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_smooth_basalt.png"
+hash = "13e2c6076a5ca5a3e8b9e86e824aea889b72d103751ad1c45093ce4ab4f274c1"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/quintuple_compressed.png"
 hash = "233d907c7b354fc57e3c62bcee5815c966428074d54fb3229b2b482da1e19d07"
 
@@ -2602,8 +2662,24 @@ file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_andesite.png"
 hash = "cde2160374e8f3c92ed1bbf82422a772b3a20f54f9e1a9ac5ff890213724981e"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_basalt.png"
+hash = "64a59f0b12c72e4e8051638ef9e7de2b24cd7ca554cd57b1e1edeac39d4bf790"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_blackstone.png"
+hash = "3514548faf2f6e40f7316521d5146cf2aa9954f51c726dddc4ecafb0cc623971"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_calcite.png"
+hash = "cdb03bdc17a86a892915a1e37a71c7c9e620a87dc2565b32c3620ff07a94e103"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_clay.png"
 hash = "b7447ee208bc68651bc48fab7e5c35a012621c2e4dadfd89f435187db7d75ee1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_coarse_dirt.png"
+hash = "4061adc727fe1428d4dea9032b7d662e575417a7677be1e252502078b8fc26a8"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_cobbled_deepslate.png"
@@ -2614,12 +2690,36 @@ file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_cobblestone.png
 hash = "81917abdf1ff6388844b514b53d11d5b03f1bd84de328f12cfb05586436da8d0"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_smooth_basalt.png"
+hash = "afa1e7127b13f9b1df64033e4c496d0a9bcf545288cee007e1e53d375250cfaf"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/red_hue_lamp.png"
 hash = "a64fea4705671f8d2a485a1e9565960463d4b8e7d629a898382ddb7ad30a59b0"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/single_compressed.png"
 hash = "2f6aa9d111b3256c87f26294b1cdc9dc49bc2ab4a400c89b19531e2eba922c27"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed_basalt.png"
+hash = "3135a7bd6c831c753a275727b9d770d2765d0268897be36eacb37657261cb97f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed_blackstone.png"
+hash = "cf99ff67ccfaa1f00435c0527eb5c581ecc87a0a90bcbf42ba0e24c1ce89454d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed_calcite.png"
+hash = "df7105c48193a73bcd91942a6a78f36c0b92a46776faff82d34cf7e89372a411"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed_coarse_dirt.png"
+hash = "89f2a6b841537bfb0fdf070c718463d9606ea95b3e4daa9d2aa3177d136ea7ea"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed_smooth_basalt.png"
+hash = "4c65abd3b2b8f923f04f00e2e65f64a10c36df4d8c300728d162972f945ecb0a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/triple_compressed.png"
@@ -2630,8 +2730,24 @@ file = "kubejs/assets/kubejs/textures/block/triple_compressed_andesite.png"
 hash = "7efbfe88be9a47f2bdb015948a8127a967eb59cf2d051ee794772b1eb3ebf847"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_basalt.png"
+hash = "2873fdcf64c691539c9e66fa4ce82741d2480d79a82252b68edc74641ce6b47a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_blackstone.png"
+hash = "d8f4ef70bd9436b6909fb24793c9645f04c72eec31cd481789ce27844cdd4a0b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_calcite.png"
+hash = "220f1d27ffce5e666b981bb477578609af8a947ed98120fc308e07adb339a833"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/triple_compressed_clay.png"
 hash = "7f458ce0fc7766daf1b96df176051fe7f648ebb9f04d113bb4f182b893ccdcd7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_coarse_dirt.png"
+hash = "e6e315231e24e70b2cd4c295cb6f960ef6dce632b58c0b69231a9bb17f623180"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobbled_deepslate.png"
@@ -2640,6 +2756,10 @@ hash = "93d4bbb36e5af920c55bc887a78e83f11316f476873dbe5f9ec150f65de32ef7"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobblestone.png"
 hash = "f60f4363b291167ff4a13f94a1650aabab9a34c114f4ec853ce239a1cc762b0b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_smooth_basalt.png"
+hash = "cd06793afd9950d87d97126591bb568ab91e0a68eecf3508d51592a87db85dfe"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/white_hue_lamp.png"
@@ -2795,7 +2915,7 @@ hash = "c667c66cf4078f0f98865cd1c4451130397d18ddb063b67d85ff1e32d65d0b3f"
 
 [[files]]
 file = "kubejs/server_scripts/custom-compressedblocks.js"
-hash = "8d0f58e0eaa49b32ce7d00d8068d9984351c642304b3771d5a27e0c16cb5992d"
+hash = "0a241d8fb44126532b70a8275caade1b5e06cd1e3763e93f433a78b05bb10c2d"
 
 [[files]]
 file = "kubejs/server_scripts/custom-compressedblocks_quark.js"
@@ -2955,7 +3075,7 @@ hash = "400850016c69ade9f0384cf811f39a5323729e56fc5c4449d893576181653968"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-compressedblocks.js"
-hash = "593b49c4d457b67f4ef6af903d431e03858bb20bdaae56642aaed7271a652ba0"
+hash = "86ccc0db08d915e1f545ec34a1df01e37b2b012553c4338b9b0049043bbd6101"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-compressedblocks_quark.js"
@@ -4863,6 +4983,10 @@ metafile = true
 file = "resourcepacks/lantern-pbr.pw.toml"
 hash = "2cfde3ebe93f6322d82c221949ebb2b95a51330dea76f68d83f225d7b5d7d7be"
 metafile = true
+
+[[files]]
+file = "resourcepacks/malum-excavatedvariants-fix.toml"
+hash = "d1a4249410429ffc5dd5ce1f2ed50457f15b6d969b690813bd02cbf6c5cde8da"
 
 [[files]]
 file = "resourcepacks/merchant_fix.pw.toml"

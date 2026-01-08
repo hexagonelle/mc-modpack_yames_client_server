@@ -85,6 +85,31 @@ StartupEvents.registry("block", (event) => {
 			"stone",
 			"stone",
 			"pickaxe"
+		],[
+			"minecraft:basalt",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:blackstone",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:calcite",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:coarse_dirt",
+			"stone",
+			"stone",
+			"shovel"
+		],[
+			"minecraft:smooth_basalt",
+			"stone",
+			"stone",
+			"pickaxe"
 		]
 	];
 

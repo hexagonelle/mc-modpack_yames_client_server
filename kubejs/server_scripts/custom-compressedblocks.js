@@ -16,7 +16,12 @@ ServerEvents.recipes(event=> {
 		"minecraft:soul_soil",
 		"minecraft:stone",
 		"minecraft:tuff",
-		"minecraft:deepslate"
+		"minecraft:deepslate",
+		"minecraft:basalt",
+		"minecraft:blackstone",
+		"minecraft:calcite",
+		"minecraft:coarse_dirt",
+		"minecraft:smooth_basalt"
 	];
 
 	let compressLevel = [
