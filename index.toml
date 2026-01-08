@@ -2294,6 +2294,38 @@ file = "config/waystones-common.toml"
 hash = "e071dda265936f25e82bf076378ff5a84deda6090c1cc466517f4ab6818f4720"
 
 [[files]]
+file = "config/xaero/minimap/ExcavatedVariantsTest/config.txt"
+hash = "59f7d70934afdbc8127f579df72980726384fb8b7b7ea9f0705fb9aaf7cb6cbc"
+
+[[files]]
+file = "config/xaero/world-map/ExcavatedVariantsTest/null/.lock"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaero/world-map/ExcavatedVariantsTest/null/cache_1/-1_-1.xwmc.outdated"
+hash = "4efd8f798ef996102c88416038c01e6accf6b6d0282a61ce20d930aa15db668b"
+
+[[files]]
+file = "config/xaero/world-map/ExcavatedVariantsTest/null/cache_1/-1_0.xwmc.outdated"
+hash = "1beddbbb4daf9b5d30639afde7c8883c6c86e18b16143119c426aa4a0d0e1238"
+
+[[files]]
+file = "config/xaero/world-map/ExcavatedVariantsTest/null/cache_1/0_-1.xwmc.outdated"
+hash = "585efb193c278cb81b808f03b26d9dbd19f5667c04029b734773dd4b294a8549"
+
+[[files]]
+file = "config/xaero/world-map/ExcavatedVariantsTest/null/cache_1/0_0.xwmc.outdated"
+hash = "66feffc86d279043d9fa518d508d8d7ca945fc437a9989869621b1621cfb83e5"
+
+[[files]]
+file = "config/xaero/world-map/ExcavatedVariantsTest/null/dimension_config.txt"
+hash = "ba583361beeea8e14375f9f82abce882f3e0fae27497c2ff449121938087c41a"
+
+[[files]]
+file = "config/xaero/world-map/ExcavatedVariantsTest/server_config.txt"
+hash = "bd07cf5e7e8b15ea02b47a091c02971f44a6b3c1eac2ae9d8841715bae3f7671"
+
+[[files]]
 file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
@@ -4663,6 +4695,21 @@ hash = "ba758f77d7e7d65f6c1ba0254a4cb66a83c3eb6fc110315475875787ed42dcb0"
 metafile = true
 
 [[files]]
+file = "mods/xaero-zoomout.pw.toml"
+hash = "a41e302bd98d48062ffad14d1d021052729fc1ddff75bee00aae8110dc33bdb4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "dd9c8d955749815ea13a1e500711926fd631bab441ceda04994ac84d1cdd52a6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c610e4f3a315259f44c6c2ce05503e93c7525a43a21d13f0e0661062cb82bede"
+metafile = true
+
+[[files]]
 file = "mods/ydms-fennec-fox.pw.toml"
 hash = "6fad8f38cb51f0fe691d3fa725809f53b3c792e4dae6d115e5636395614e8dbb"
 metafile = true
@@ -4726,10 +4773,6 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "40cbaef943dc07da51af0157e9adac795550a9feee51789a01ff79bedfdc0583"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
