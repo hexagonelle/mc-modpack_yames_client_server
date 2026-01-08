@@ -2294,36 +2294,68 @@ file = "config/waystones-common.toml"
 hash = "e071dda265936f25e82bf076378ff5a84deda6090c1cc466517f4ab6818f4720"
 
 [[files]]
-file = "config/xaero/minimap/ExcavatedVariantsTest/config.txt"
-hash = "59f7d70934afdbc8127f579df72980726384fb8b7b7ea9f0705fb9aaf7cb6cbc"
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
 
 [[files]]
-file = "config/xaero/world-map/ExcavatedVariantsTest/null/.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
 
 [[files]]
-file = "config/xaero/world-map/ExcavatedVariantsTest/null/cache_1/-1_-1.xwmc.outdated"
-hash = "4efd8f798ef996102c88416038c01e6accf6b6d0282a61ce20d930aa15db668b"
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
 
 [[files]]
-file = "config/xaero/world-map/ExcavatedVariantsTest/null/cache_1/-1_0.xwmc.outdated"
-hash = "1beddbbb4daf9b5d30639afde7c8883c6c86e18b16143119c426aa4a0d0e1238"
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
-file = "config/xaero/world-map/ExcavatedVariantsTest/null/cache_1/0_-1.xwmc.outdated"
-hash = "585efb193c278cb81b808f03b26d9dbd19f5667c04029b734773dd4b294a8549"
+file = "config/xaero/minimap/client.cfg"
+hash = "80c77d2c2882d29b5ae19be7588b19fd6e9ef6ef1a9b66feda121bde76943263"
 
 [[files]]
-file = "config/xaero/world-map/ExcavatedVariantsTest/null/cache_1/0_0.xwmc.outdated"
-hash = "66feffc86d279043d9fa518d508d8d7ca945fc437a9989869621b1621cfb83e5"
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
 
 [[files]]
-file = "config/xaero/world-map/ExcavatedVariantsTest/null/dimension_config.txt"
-hash = "ba583361beeea8e14375f9f82abce882f3e0fae27497c2ff449121938087c41a"
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
 
 [[files]]
-file = "config/xaero/world-map/ExcavatedVariantsTest/server_config.txt"
-hash = "bd07cf5e7e8b15ea02b47a091c02971f44a6b3c1eac2ae9d8841715bae3f7671"
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "4cff2a7f0e08efb3e65ad4f0341924024e84ffe7f504b46ce1688e53a4d4eda8"
+
+[[files]]
+file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "5fe5f94a2505603996c6cb22c245096d2607a1ff5422f5cdf826fee8119fee68"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "5becce9b6f4a7c83c4ffd6568562b81f613f14b9ea0455981478e42eb1aef1f5"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "f312031ffc6493ce1984a58391568dd0e13ef74c60bf4103c035bc928d1f2e12"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/zeta-common.toml"
