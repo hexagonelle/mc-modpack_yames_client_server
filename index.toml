@@ -3782,6 +3782,11 @@ hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "a7bcd625886fcb580a2f85bb43f3e58362a546c31ec0880b97c138c753313199"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_asset_generator.pw.toml"
 hash = "6b8053bc7343659665925625e947a2f79a786cf2e14b67934b3091b04bd6a624"
 metafile = true
