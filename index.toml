@@ -3043,7 +3043,7 @@ hash = "c667c66cf4078f0f98865cd1c4451130397d18ddb063b67d85ff1e32d65d0b3f"
 
 [[files]]
 file = "kubejs/server_scripts/custom-compressedblocks.js"
-hash = "963af26c241b7f16d7b18ca2aee754095007a01791261947fc2a93c399ed5b84"
+hash = "4154fe2336eaa27efb8f128be1ced5b0513a56c1f59d7765d9ea80445fa9d07a"
 
 [[files]]
 file = "kubejs/server_scripts/custom-compressedblocks_borninchaos.js"
