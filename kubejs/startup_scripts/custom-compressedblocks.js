@@ -56,7 +56,7 @@ StartupEvents.registry("block", (event) => {
 			"sand",
 			"shovel"
 		],[
-			"minecraft:snow",
+			"minecraft:snow_block",
 			"snow",
 			"snow",
 			"shovel"
@@ -107,6 +107,16 @@ StartupEvents.registry("block", (event) => {
 			"shovel"
 		],[
 			"minecraft:smooth_basalt",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:dripstone_block",
+			"stone",
+			"stone",
+			"pickaxe"
+		],[
+			"minecraft:magma_block",
 			"stone",
 			"stone",
 			"pickaxe"

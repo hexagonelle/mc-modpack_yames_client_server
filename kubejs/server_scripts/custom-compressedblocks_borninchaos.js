@@ -1,29 +1,6 @@
 ServerEvents.recipes(event=> {
 	let toCompress = [
-		"minecraft:andesite",
-		"minecraft:clay",
-		"minecraft:cobblestone",
-		"minecraft:cobbled_deepslate",
-		"minecraft:diorite",
-		"minecraft:dirt",
-		"minecraft:granite",
-		"minecraft:gravel",
-		"minecraft:netherrack",
-		"minecraft:sand",
-		"minecraft:red_sand",
-		"minecraft:snow_block",
-		"minecraft:soul_sand",
-		"minecraft:soul_soil",
-		"minecraft:stone",
-		"minecraft:tuff",
-		"minecraft:deepslate",
-		"minecraft:basalt",
-		"minecraft:blackstone",
-		"minecraft:calcite",
-		"minecraft:coarse_dirt",
-		"minecraft:smooth_basalt",
-		"minecraft:dripstone_block",
-		"minecraft:minecraft:magma_block"
+		"born_in_chaos_v1:black_argillite",
 	];
 
 	let compressLevel = [

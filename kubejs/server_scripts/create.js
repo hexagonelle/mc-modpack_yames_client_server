@@ -33,6 +33,14 @@ ServerEvents.recipes(event => {
 		'#create:stone_types/scoria'
 	).processingTime(1000)
 
+	// Recipe to obtain pointed dripstone via crushing dripstone
+	event.recipes.create.crushing(
+		[
+			Item.of('minecraft:pointed_dripstone',4)
+		],
+		'minecraft:dripstone'
+	).processingTime(200)
+
 	// Recipe to obtain ancient debris via compacting
 	event.recipes.create.compacting(
 		['minecraft:ancient_debris'],
@@ -42,6 +50,9 @@ ServerEvents.recipes(event => {
 			Item.of('create:scoria',8)
 		]
 	).superheated()
+
+	// Reconstitute netherrack from cinder flour
+	event.recipes.create.compacting('minecraft:netherrack', 'create:cinder_flour').heated()
 	
 	// Add recipe to get dirt from path
 	event.recipes.create.deploying(

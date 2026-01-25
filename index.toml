@@ -2534,6 +2534,10 @@ file = "kubejs/assets/kubejs/textures/block/double_compressed_basalt.png"
 hash = "8e0eebba80e5605435d1acef82a1e161b7a7bbc6d1338b401f9d716f894de31b"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_black_argillite.png"
+hash = "48a1e40537de56c014cdb156f8fd56d1ff28da4ba0cba73e09ea539a808c1bae"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/double_compressed_blackstone.png"
 hash = "42f5adca8082a4ebfa0ecedb57ad68a2e1047bfa2318c184b222621ba1c94168"
 
@@ -2558,8 +2562,20 @@ file = "kubejs/assets/kubejs/textures/block/double_compressed_cobblestone.png"
 hash = "bc2233c6149d88194505c22f6faa9b097a20ad59b1e98d66f8f04e3c55e94b96"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_dripstone_block.png"
+hash = "a1015404d8d32dd91dea0ab46e601d35d12b719e697acbb96575b156b3a0fe1e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_magma_block.png"
+hash = "54b5772033c3a0d91f08630e5937d83a94dc0b21779964789797f816d7280952"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/double_compressed_smooth_basalt.png"
 hash = "156ea4a687282d2f114b633833caf7097d669b54925e47346023a5ae19518ab8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_snow_block.png"
+hash = "764f53d41a5a50383fcc0e89a06a20d00b5ca6e9fd7944faae4f64d40b2c3160"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
@@ -2590,6 +2606,10 @@ file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_basalt.png"
 hash = "d31b4c0ce3b3e74975f6a42808d672c8678b19b56b5bb91428c34662e5595b47"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_black_argillite.png"
+hash = "48acf0cb5c423f0cc6501ae5a5b9c6bfb27072d69f61ea7bda818b6b6ed35de8"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_blackstone.png"
 hash = "73de7f41f2e55d24ae530386cfc1bc320217deeb5e3ea8d132baab79eb505f0b"
 
@@ -2614,8 +2634,20 @@ file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_cobblestone.png"
 hash = "a3acc838fc8def97b2efdb60a325f6c6a91f1697e8753b61330bab0961e515a2"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_dripstone_block.png"
+hash = "5c31b2fcd79c2ea4321245f4ac716de9de3f26e3304723f7e44235eabed49f2e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_magma_block.png"
+hash = "a4302402f7d745564a83acccc9f4b25402e4b4ee2cc36ae509a5765ef10d3b3d"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_smooth_basalt.png"
 hash = "95900ce7d400ac622e0c919f068145fe3f1d5877847dfd67de9cd3cdd927db6f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_snow_block.png"
+hash = "c0bf7cbe62ec64cc7d1a663e9ad1eea8fb288b632b1f66ac3b7c31f1cb0658ae"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/light_blue_hue_lamp.png"
@@ -2658,6 +2690,10 @@ file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_basalt.png"
 hash = "851dc4258f8ce62af7dab8ce5afe9dc5444359789915f6637707fe06af61a2b3"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_black_argillite.png"
+hash = "43352fdaa9fa03a5f37166313782608bb6a12af231bc08f59d013d609d41d020"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_blackstone.png"
 hash = "e7e9ba3e266700029f174c6a39cb326df385c603ef8c9503629346061280ccd8"
 
@@ -2682,8 +2718,20 @@ file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_cobblestone.png
 hash = "0cb6df57aeecede69270a3238b7fc0dbbff6e4cae7bfba9346d6c3a68cf9a427"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_dripstone_block.png"
+hash = "4948a6cc65ead8c8b6c3032f661b65d218ad3d307a017a6ac588810fb22a10d2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_magma_block.png"
+hash = "2f451f0bca753d8aa43550cca1178b6cf05883ec32415a7936d22debc7dd6e8a"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_smooth_basalt.png"
 hash = "13e2c6076a5ca5a3e8b9e86e824aea889b72d103751ad1c45093ce4ab4f274c1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_snow_block.png"
+hash = "afee89b5c4e58e7db601945b6d9d7afd630a004c59bd17a70b3c3218ce1567b3"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/quintuple_compressed.png"
@@ -2696,6 +2744,10 @@ hash = "cde2160374e8f3c92ed1bbf82422a772b3a20f54f9e1a9ac5ff890213724981e"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_basalt.png"
 hash = "64a59f0b12c72e4e8051638ef9e7de2b24cd7ca554cd57b1e1edeac39d4bf790"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_black_argillite.png"
+hash = "4a80ce70c2d903efade94dc0e85b59fb118498b31d354238e9ef60db5dda773e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_blackstone.png"
@@ -2722,8 +2774,20 @@ file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_cobblestone.png
 hash = "81917abdf1ff6388844b514b53d11d5b03f1bd84de328f12cfb05586436da8d0"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_dripstone_block.png"
+hash = "b79dcc0904c5a2df23981f99e9c86fd11219799f7d3d00c665199797b27f5956"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_magma_block.png"
+hash = "03e11faa2776eff301b2f8d692dc10b0cff89467a539dacf19c8a7311c3aed28"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_smooth_basalt.png"
 hash = "afa1e7127b13f9b1df64033e4c496d0a9bcf545288cee007e1e53d375250cfaf"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_snow_block.png"
+hash = "3c4f8f51e718fae812ae8a35407c6d22be7a78e3457be63d0346923e9e21b74c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/red_hue_lamp.png"
@@ -2738,6 +2802,10 @@ file = "kubejs/assets/kubejs/textures/block/single_compressed_basalt.png"
 hash = "3135a7bd6c831c753a275727b9d770d2765d0268897be36eacb37657261cb97f"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed_black_argillite.png"
+hash = "f57fd493208df6c5d1d72e03b0afe7962b9ed6262f721be9ea757c98b538f710"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/single_compressed_blackstone.png"
 hash = "cf99ff67ccfaa1f00435c0527eb5c581ecc87a0a90bcbf42ba0e24c1ce89454d"
 
@@ -2750,8 +2818,20 @@ file = "kubejs/assets/kubejs/textures/block/single_compressed_coarse_dirt.png"
 hash = "89f2a6b841537bfb0fdf070c718463d9606ea95b3e4daa9d2aa3177d136ea7ea"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed_dripstone_block.png"
+hash = "0200036d08ecba8ec76e01eed8f8ff07e66f9d5cf94d950aad98ee4c8f81f492"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed_magma_block.png"
+hash = "18b09262720fac7c8a6d27421dfd93fdb4b1bd1768167f45bf47aad4170161a4"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/single_compressed_smooth_basalt.png"
 hash = "4c65abd3b2b8f923f04f00e2e65f64a10c36df4d8c300728d162972f945ecb0a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed_snow_block.png"
+hash = "cd05e4eb995f3bc5685a22f552bde4a9b15198cd8484be721a72b7756012cecc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/triple_compressed.png"
@@ -2764,6 +2844,10 @@ hash = "7efbfe88be9a47f2bdb015948a8127a967eb59cf2d051ee794772b1eb3ebf847"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/triple_compressed_basalt.png"
 hash = "2873fdcf64c691539c9e66fa4ce82741d2480d79a82252b68edc74641ce6b47a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_black_argillite.png"
+hash = "ba80dbb5aed0ae45bd4657d9e76673d602a419d9292dc4debe72ef2aa04e6d3c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/triple_compressed_blackstone.png"
@@ -2790,8 +2874,20 @@ file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobblestone.png"
 hash = "f60f4363b291167ff4a13f94a1650aabab9a34c114f4ec853ce239a1cc762b0b"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_dripstone_block.png"
+hash = "6ee138bab6b76b91e87a3d44e3a1ad55f5414222f50b2a3439ef77c6559e5857"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_magma_block.png"
+hash = "da4582c415f7cadcac457a951105d42330a14da5c7631d3d85851893dfd1a403"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/triple_compressed_smooth_basalt.png"
 hash = "cd06793afd9950d87d97126591bb568ab91e0a68eecf3508d51592a87db85dfe"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_snow_block.png"
+hash = "092ee84769377735895df37dd99af6973259786adee8144f0f62915f3082de66"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/white_hue_lamp.png"
@@ -2891,7 +2987,7 @@ hash = "539af23628cc811dcd2961966f42e700fbac24ad463f904bba8420019eb10609"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "d8c22daead1f5cabcc0b90e05ffc36e8d673294b5f4e5f2f7eb606f1d6e76095"
+hash = "206a373095599d8375d0fa25cc94e290689b462ee75a5d8c626abad2704a8138"
 
 [[files]]
 file = "kubejs/server_scripts/create_alexscaves.js"
@@ -2947,7 +3043,11 @@ hash = "c667c66cf4078f0f98865cd1c4451130397d18ddb063b67d85ff1e32d65d0b3f"
 
 [[files]]
 file = "kubejs/server_scripts/custom-compressedblocks.js"
-hash = "0a241d8fb44126532b70a8275caade1b5e06cd1e3763e93f433a78b05bb10c2d"
+hash = "963af26c241b7f16d7b18ca2aee754095007a01791261947fc2a93c399ed5b84"
+
+[[files]]
+file = "kubejs/server_scripts/custom-compressedblocks_borninchaos.js"
+hash = "e059e728e18cbb7a380f733ac4e40204f7ffbc298d65b1691dcd27b7a1b4fb81"
 
 [[files]]
 file = "kubejs/server_scripts/custom-compressedblocks_quark.js"
@@ -3107,7 +3207,11 @@ hash = "400850016c69ade9f0384cf811f39a5323729e56fc5c4449d893576181653968"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-compressedblocks.js"
-hash = "86ccc0db08d915e1f545ec34a1df01e37b2b012553c4338b9b0049043bbd6101"
+hash = "fb5194816771cfbd7e8ec7b68a7478416489fd06e9fa53b0eb8ba1e6d1d9413a"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-compressedblocks_borninchaos.js"
+hash = "bbcf896ba2f7ce21a0bd993edf5b22d6b6d5bd6fe9477a1e7e6844e74f962480"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-compressedblocks_quark.js"
