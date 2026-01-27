@@ -52,7 +52,12 @@ ServerEvents.recipes(event => {
 	).superheated()
 
 	// Reconstitute netherrack from cinder flour
-	event.recipes.create.compacting('minecraft:netherrack', 'create:cinder_flour').heated()
+	event.recipes.create.mixing('minecraft:netherrack',
+		[
+			'create:cinder_flour',
+			'minecraft:gravel'
+		]
+	).heated()
 	
 	// Add recipe to get dirt from path
 	event.recipes.create.deploying(

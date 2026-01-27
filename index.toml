@@ -2987,7 +2987,7 @@ hash = "539af23628cc811dcd2961966f42e700fbac24ad463f904bba8420019eb10609"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "206a373095599d8375d0fa25cc94e290689b462ee75a5d8c626abad2704a8138"
+hash = "e7f5d4af791325fce6129f06feac8d1a9ad6e782ee00c424c6d7c682af15754f"
 
 [[files]]
 file = "kubejs/server_scripts/create_alexscaves.js"
