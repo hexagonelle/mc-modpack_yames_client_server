@@ -3026,6 +3026,10 @@ file = "kubejs/server_scripts/createhenry.js"
 hash = "924359d6d1c034101fc27ac4353b4172dee56a8825d88b783847df9128132076"
 
 [[files]]
+file = "kubejs/server_scripts/createhighpressure.js"
+hash = "b0a8f1220546947b1416ad3a6d1906deec0d0698f2ef16c28038a5887dd76a63"
+
+[[files]]
 file = "kubejs/server_scripts/createmechanicalspawner.js"
 hash = "b1c5e182bf2ce7af955634bdbcd158242a986e754b23d13dae249c226676db0a"
 
@@ -3663,6 +3667,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
+metafile = true
+
+[[files]]
+file = "mods/create-filters-anywhere.pw.toml"
+hash = "01a20c71e8f2137037126861773844f1c1c58ebba38eeb3200f7101c7c78b057"
 metafile = true
 
 [[files]]
