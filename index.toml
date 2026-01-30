@@ -2127,7 +2127,7 @@ hash = "3d07a7a4b79862b21fb4f72e380e7ae73298b3a6070f4201c6e2ca0d4fc48a81"
 
 [[files]]
 file = "config/sol_valheim_reforged-common.toml"
-hash = "07c4ff089c31445f6270029009889bc53b8ec01e5f387ed8f60e5a4614168915"
+hash = "e35e2ec10ab3376ee061c00cad71a8a57e3452d1e8a041c7b1a9b783edbd0d0e"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
