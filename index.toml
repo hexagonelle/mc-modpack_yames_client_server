@@ -2922,6 +2922,10 @@ file = "kubejs/assets/kubejs/textures/item/soul_lantern.png"
 hash = "af522e27edccf029ed46443d990ecadace87fbe87161c2926f938162783ede86"
 
 [[files]]
+file = "kubejs/assets/vintage_grinder/lang/en_us.json"
+hash = "791e265f42b366499c7063ff51989738d2afa04e9374d7792cd70a36479201b5"
+
+[[files]]
 file = "kubejs/client_scripts/jei.js"
 hash = "2ecd2adc64a5c61667290c65d811e614f3bf5b22e091c2eb7d041b8bed5b619c"
 
