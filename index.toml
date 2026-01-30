@@ -278,15 +278,15 @@ hash = "9570394720a9dc892ef9b230c55c5279111afa8a37662298e341d3f2ef976a26"
 
 [[files]]
 file = "config/adchimneys/Emitters/create$blaze_burner.cfg"
-hash = "8379328205efeed04d844b1b45e4e88f2fd8376a6c8ae382de4df899b75aa876"
+hash = "5517f644c93ef2e09725dd720b98761a3c4ef987645f615243bf7095e60e8b8a"
 
 [[files]]
 file = "config/adchimneys/Emitters/create$lit_blaze_burner.cfg"
-hash = "9b6a0b19fafda0b2b0be70c7b9656bc46bf14d718d2ec504c2823c437c0f9d0c"
+hash = "cf54d4f1d777604ad5f750f5b2da02a75913e765dd8f6cecd84a36ce77d8391c"
 
 [[files]]
 file = "config/adchimneys/Emitters/createaddition$liquid_blaze_burner.cfg"
-hash = "a906cbef80d4f09376121a6b0f4c7ebde8b79b002f7acede558fa98875c0c33b"
+hash = "3d74cf692d926011ee6625942a99775dca11f93182dd6228dd7a841c91024371"
 
 [[files]]
 file = "config/adchimneys/Emitters/createdieselgenerators$diesel_engine.cfg"
@@ -2923,7 +2923,7 @@ hash = "af522e27edccf029ed46443d990ecadace87fbe87161c2926f938162783ede86"
 
 [[files]]
 file = "kubejs/assets/vintage_grinder/lang/en_us.json"
-hash = "791e265f42b366499c7063ff51989738d2afa04e9374d7792cd70a36479201b5"
+hash = "8390c86399170f6cb48aa53e3870ccb096719dca98d00871f4d4d955553acf9e"
 
 [[files]]
 file = "kubejs/client_scripts/jei.js"
