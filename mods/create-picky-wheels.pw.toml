@@ -1,13 +1,13 @@
 name = "Create Picky Wheels"
-filename = "createpickywheels-forge-1.20.1-6.0.8-2.jar"
+filename = "createpickywheels-forge-1.20.1-6.0.8-4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Zotbxaw6/versions/TSgm5k08/createpickywheels-forge-1.20.1-6.0.8-2.jar"
+url = "https://cdn.modrinth.com/data/Zotbxaw6/versions/ym0LKmXH/createpickywheels-forge-1.20.1-6.0.8-4.jar"
 hash-format = "sha512"
-hash = "4e3b51f34d855cdbfcf0df24278f464e9489b3faf1408f8420d31981d5b7c73f973266b56dfc5566065ff52eb8e637881e42b474c9e1704575ab4a83fe786864"
+hash = "136bbc26209e5f7512e0d44cbb94bb41c5557e562cc8916c21a416030330967e7b48b9dbb4c8b04a6a195f28ecec473c91ae184f68e22cd1c595aab26a5e99f6"
 
 [update]
 [update.modrinth]
 mod-id = "Zotbxaw6"
-version = "TSgm5k08"
+version = "ym0LKmXH"
