@@ -1193,6 +1193,10 @@ file = "config/betterf3.toml"
 hash = "3e6845b9c5ac0d6d0f924e58e22ccd8b3a35414bf8a28bf3b6a5058e8d800664"
 
 [[files]]
+file = "config/bits_n_bobs-common.toml"
+hash = "662908d46495113a7c30e5bae81cdbb2f3b1946d8c1d394e8a1ded6868017b4a"
+
+[[files]]
 file = "config/blockrunner.json"
 hash = "c258a5b3b68392b3b6d8e8d12ee4054cc73388a14d5efc55c86350ad931e9dcc"
 
