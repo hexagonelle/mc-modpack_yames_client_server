@@ -1193,6 +1193,10 @@ file = "config/betterf3.toml"
 hash = "3e6845b9c5ac0d6d0f924e58e22ccd8b3a35414bf8a28bf3b6a5058e8d800664"
 
 [[files]]
+file = "config/bits_n_bobs-common.toml"
+hash = "551262a30f89dd48fb8d91bbba45ddf0fa9e219d37e378d72c708ed9d63a4e35"
+
+[[files]]
 file = "config/blockrunner.json"
 hash = "c258a5b3b68392b3b6d8e8d12ee4054cc73388a14d5efc55c86350ad931e9dcc"
 
@@ -2127,7 +2131,7 @@ hash = "3d07a7a4b79862b21fb4f72e380e7ae73298b3a6070f4201c6e2ca0d4fc48a81"
 
 [[files]]
 file = "config/sol_valheim_reforged-common.toml"
-hash = "e35e2ec10ab3376ee061c00cad71a8a57e3452d1e8a041c7b1a9b783edbd0d0e"
+hash = "e5668dbd9136c4de0ded34173414157e66789ad242a125c9af70912435811991"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -3195,7 +3199,7 @@ hash = "4428f28771d5beb5ed853c652bbd4aa7dc24d7d36ec0759f97aadb5e9c00eb1a"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla.js"
-hash = "a31ea8c99de1ac6a8038ed1ddd008699154137fe402b8bc814c446ed2115f687"
+hash = "e0c275142732f470db01670f2751653ad8a8de5123aae8bfff9933dd13bc2217"
 
 [[files]]
 file = "kubejs/server_scripts/vintagegrinder.js"

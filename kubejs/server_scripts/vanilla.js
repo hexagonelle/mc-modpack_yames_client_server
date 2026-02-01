@@ -78,6 +78,21 @@ ServerEvents.recipes(event => {
 		  }
 	)
 
+	event.remove({
+		type: 'minecraft:stonecutting',
+		output: 'minecraft:cut_copper' })
+
+	//add a recipe to convert cut copper back to copper
+	event.shaped("4x minecraft:copper_block",
+		[
+			'AA',
+			'AA'
+		],
+		{
+			A: "minecraft:cut_copper"
+		}
+	)
+
 })
 
 //add custom villager trades
