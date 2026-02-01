@@ -3503,11 +3503,6 @@ hash = "e87bc30ef60440cd3f9055490e9f707c0dd3287e6cd50edfb20c9594428cd0f4"
 metafile = true
 
 [[files]]
-file = "mods/cardiac.pw.toml"
-hash = "56dea3b375f85065f15ee995e8761a3dbe614f1591a325e0faf51e892f998032"
-metafile = true
-
-[[files]]
 file = "mods/cataclysm-x-yungs.pw.toml"
 hash = "c67156797b7e0dace959382b1d21f0431e0d1482f3d5d1d0e5733089a87f093b"
 metafile = true
@@ -3830,11 +3825,6 @@ metafile = true
 [[files]]
 file = "mods/decorative-core.pw.toml"
 hash = "a7f4ddaae943d99cf5f3de68a2b4a6a016da695078cbcf108b0d97d0edd4ac71"
-metafile = true
-
-[[files]]
-file = "mods/decorative-storage.pw.toml"
-hash = "77777a940308cb66ba1b31a31bc0134ed43434361b1437657e03f257d7364e3b"
 metafile = true
 
 [[files]]
