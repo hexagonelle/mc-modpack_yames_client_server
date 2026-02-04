@@ -1,5 +1,5 @@
-name = "Immersive Generators"
-filename = "ImmersiveGenerators.zip"
+name = "Minimal Immersive Weathering Growth"
+filename = "minimal_iw_growth.zip"
 side = "server"
 
 # This file is distributed locally,
@@ -10,4 +10,4 @@ url = "https://example.com/example.zip"
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "76aa971076e4124347c31e4328be8d0968d51ef5a2a761ddc76161c3c8f87048"
+hash = "729e1288c3e0bb9c2f7d79d4a8d894d2296066dc77cf88b16a6705fc5d0be5f9"

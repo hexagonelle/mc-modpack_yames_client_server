@@ -2011,8 +2011,12 @@ metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/immersivegenerators.pw.toml"
-hash = "f5e91cb961f8b254959e9a3288bae81ab6c85c561aeeabce00c708cdd8663650"
+hash = "b6691c196f2da37e6ef83a22ec51851ba4815c73f43472817511fa55d529b2cf"
 metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/iw_partial_crops_fix.toml"
+hash = "ce333d2615c1ed5331667680359788f41929d9899ebdd7d67c42d36361511216"
 
 [[files]]
 file = "config/paxi/datapacks/minimal_iw_growth.pw.toml"
@@ -3939,7 +3943,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+hash = "ebf3156ced6cd4d03983b6d4a3827593ce21b1da8736daec733be0466278d06c"
 metafile = true
 
 [[files]]
