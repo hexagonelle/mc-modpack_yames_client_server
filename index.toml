@@ -1202,7 +1202,7 @@ hash = "c258a5b3b68392b3b6d8e8d12ee4054cc73388a14d5efc55c86350ad931e9dcc"
 
 [[files]]
 file = "config/borninconfiguration-general.toml"
-hash = "a994c6161e907f8fc57bf384c1b71b7555f92d3789a9d996eaaff0b1fddf34b5"
+hash = "0b05d49f0e833baa47d2b35aaa5c7f8c56b65f266f9cabd6ed7b4fe6f1fa456b"
 
 [[files]]
 file = "config/buzzier_bees-common.toml"

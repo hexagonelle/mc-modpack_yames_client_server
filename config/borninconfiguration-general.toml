@@ -816,7 +816,7 @@
 			#Whether nightmare stalker freezes water
 			NIGHTMARE_FREEZE_ENABLED = true
 			#.
-			NIGHTMARE_STALKER_SPAWNING_ENABLED = true
+			NIGHTMARE_STALKER_SPAWNING_ENABLED = false
 			#Days till Nightmare Stalker spawns
 			#Range: 1 ~ 999999
 			DAYS_TILL_NIGHTMARE = 3
