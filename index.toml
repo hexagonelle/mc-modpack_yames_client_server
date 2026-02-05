@@ -3822,6 +3822,11 @@ hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "eb60f70cc84efa111a51c35311a44ae352b3b9c98ec7ba4e64595ae627e33006"
 metafile = true
@@ -4087,6 +4092,11 @@ hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
+file = "mods/fluffy-fur.pw.toml"
+hash = "01c2f4f907e97df35d61cfd97734988145fe86be050e29a169d54ae6ef59f56b"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "d7ff355f295137f9b6915e48660647bffb969a6053ad26f69a58718bc4068ff4"
 metafile = true
@@ -4129,6 +4139,11 @@ metafile = true
 [[files]]
 file = "mods/gml.pw.toml"
 hash = "3230a700b8083d1999523c5e77f7c9b14ed106059a8683ca780a06ab801231fb"
+metafile = true
+
+[[files]]
+file = "mods/goety.pw.toml"
+hash = "a81bbf94db44ac853f1595dd519412ce5b017c2bb99b951d9cb3d71a50ca6c4f"
 metafile = true
 
 [[files]]
@@ -4944,6 +4959,11 @@ metafile = true
 [[files]]
 file = "mods/wither-spawn-animation.pw.toml"
 hash = "5cafa72a405255d780d86e635d09e7d59f425cfcb04107b9415912ef85cc2517"
+metafile = true
+
+[[files]]
+file = "mods/wizards-reborn.pw.toml"
+hash = "a5205c1442773fe966b48a55ff6218bd0a45cd4e5b9d25b0949f5829e0b0758e"
 metafile = true
 
 [[files]]
