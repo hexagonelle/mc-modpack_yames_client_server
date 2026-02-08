@@ -4857,8 +4857,8 @@ hash = "974af7bd8b20941d615aa6d37f522da34f62d81ddee97ccfad3c458b5db8ece5"
 metafile = true
 
 [[files]]
-file = "mods/teams-hud.pw.toml"
-hash = "cf23e901a81e762f858c0c7d7b48e7b7a394812c398898f8cd95921c5e9649b1"
+file = "mods/tectonic.pw.toml"
+hash = "68d6a9c68f0e73095adf87800682d395016d42f5e431a563875897479d51ff05"
 metafile = true
 
 [[files]]
