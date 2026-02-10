@@ -1,6 +1,6 @@
 name = "Tectonic"
 filename = "tectonic-3.0.17-forge-1.20.1.jar"
-side = "both"
+side = "server"
 pin = true
 
 [download]
