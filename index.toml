@@ -3377,6 +3377,11 @@ hash = "b2361bd940792464869acd3863f00d70dfa64afcf1b536117691c7206032fff3"
 metafile = true
 
 [[files]]
+file = "mods/back-up-beds.pw.toml"
+hash = "f29e912ae282656a8381f02cc9c6395211516d93ed4dad0580554d5239ddc19c"
+metafile = true
+
+[[files]]
 file = "mods/bad-horse-fix.pw.toml"
 hash = "69ef48ad58daf7a97eeda5d497d8c162e979f854c7943f1a788421299b6c62db"
 metafile = true
@@ -4764,11 +4769,6 @@ metafile = true
 [[files]]
 file = "mods/sky-villages-forge.pw.toml"
 hash = "85c93be8ce8d497fab8a15b152f3ff101cb206a8a4bb7598f5855a76c61c6706"
-metafile = true
-
-[[files]]
-file = "mods/sleeping-bags.pw.toml"
-hash = "7fe169e9371245ba27503a8d91b7212d0b5721c8f455dcac8ef68b41f5a3daeb"
 metafile = true
 
 [[files]]
