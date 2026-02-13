@@ -3075,7 +3075,7 @@ hash = "f505658aa7694962c2a461ea6208ee07023e465e986aaef80e220d8a6542dce7"
 
 [[files]]
 file = "kubejs/server_scripts/custom-lanternhousing.js"
-hash = "57f49d6ae249814553dee08b67f61da930f4add6bcd0695caa4703c3778dd9b1"
+hash = "d6915c6fb7e81bdbfde6c61fb7780c7a9cecdbf924a0bffbb01661a8b9ce8eaa"
 
 [[files]]
 file = "kubejs/server_scripts/custom-lanternhousing_realistictorches.js"
@@ -3178,6 +3178,10 @@ file = "kubejs/server_scripts/quark.js"
 hash = "27f01597c3006b0f1a087047c9bca77a1cb471b02d6c6c5553e211cac78f37ca"
 
 [[files]]
+file = "kubejs/server_scripts/realistictorches.js"
+hash = "ff389cb30765152a006e28672b640d79da8b371de48a7529ef3b5d6ecbe58e8d"
+
+[[files]]
 file = "kubejs/server_scripts/recovery_totem.js"
 hash = "1113e2442df8c0bd029fc0c04176cf01c3468ec3eaad4cd66a139f10e3fab01c"
 
@@ -3203,7 +3207,7 @@ hash = "4428f28771d5beb5ed853c652bbd4aa7dc24d7d36ec0759f97aadb5e9c00eb1a"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla.js"
-hash = "e0c275142732f470db01670f2751653ad8a8de5123aae8bfff9933dd13bc2217"
+hash = "27aa1b3094b8407d2524477d17883edfef5989546226fc91060c354362a74308"
 
 [[files]]
 file = "kubejs/server_scripts/vintagegrinder.js"

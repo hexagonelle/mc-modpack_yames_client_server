@@ -93,6 +93,45 @@ ServerEvents.recipes(event => {
 		}
 	)
 
+	// Cheaper lanterns & Chains
+	event.remove(id:"minecraft:lantern");
+	event.remove(id:"minecraft:soul_lantern");
+
+	event.shaped(
+		Item.of('minecraft:lantern'),
+		[
+			'ABA'
+		],
+		{
+			A: 'minecraft:iron_nugget',
+			B: 'minecraft:torch'
+		}
+	)
+
+	event.shaped(
+		Item.of('minecraft:soul_lantern'),
+		[
+			'ABA'
+		],
+		{
+			A: 'minecraft:iron_nugget',
+			B: 'minecraft:soul_torch'
+		}
+	)
+
+	event.shaped(
+		Item.of('minecraft:chain'),
+		[
+			' A ',
+			' B ',
+			' A '
+		],
+		{
+			A: 'minecraft:iron_nugget',
+			B: 'minecraft:iron_ingot'
+		}
+	)
+
 })
 
 //add custom villager trades

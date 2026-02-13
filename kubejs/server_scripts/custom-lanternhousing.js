@@ -95,13 +95,11 @@ ServerEvents.recipes(event => {
 	event.shaped(
 		Item.of('kubejs:lantern_housing', 2),
 		[
-			'AAA',
-			'ABA', // arg 2: the shape (array of strings)
-			'AAA'
+			'ABA'
 		],
 		{
 			A: 'minecraft:iron_nugget',
-			B: 'minecraft:chain'
+			B: '#minecraft:planks'
 		}
 	)
 })
