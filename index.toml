@@ -2999,7 +2999,7 @@ hash = "539af23628cc811dcd2961966f42e700fbac24ad463f904bba8420019eb10609"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "e7f5d4af791325fce6129f06feac8d1a9ad6e782ee00c424c6d7c682af15754f"
+hash = "ff26813bc48caaf9ddd76482355616cf8f7f147314a85b04a74eb85c1062edd4"
 
 [[files]]
 file = "kubejs/server_scripts/create_alexscaves.js"
@@ -3207,7 +3207,7 @@ hash = "4428f28771d5beb5ed853c652bbd4aa7dc24d7d36ec0759f97aadb5e9c00eb1a"
 
 [[files]]
 file = "kubejs/server_scripts/vanilla.js"
-hash = "27aa1b3094b8407d2524477d17883edfef5989546226fc91060c354362a74308"
+hash = "1ad1372d33bac19508cfaebaea79fbd851be7656e59c1034108bff9fbe7ef13b"
 
 [[files]]
 file = "kubejs/server_scripts/vintagegrinder.js"

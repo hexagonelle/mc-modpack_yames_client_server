@@ -94,8 +94,9 @@ ServerEvents.recipes(event => {
 	)
 
 	// Cheaper lanterns & Chains
-	event.remove(id:"minecraft:lantern");
-	event.remove(id:"minecraft:soul_lantern");
+	event.remove({id:"minecraft:lantern"});
+	event.remove({id:"minecraft:soul_lantern"});
+	event.remove({id:"minecraft:chain"});
 
 	event.shaped(
 		Item.of('minecraft:lantern'),
@@ -120,7 +121,7 @@ ServerEvents.recipes(event => {
 	)
 
 	event.shaped(
-		Item.of('minecraft:chain'),
+		Item.of('minecraft:chain', 8),
 		[
 			' A ',
 			' B ',

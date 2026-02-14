@@ -17,6 +17,21 @@ ServerEvents.recipes(event => {
 	event.remove({ id:"create:crushing/ochrum" })
 	event.remove({ id:"create:crushing/veridium" })
 
+	// easier chain crafting
+	event.remove({id:"create:crafting/appliances/chain_from_zinc"});
+	event.shaped(
+		Item.of('minecraft:chain', 8),
+		[
+			'A',
+			'B',
+			'A'
+		],
+		{
+			A: 'create:zinc_nugget',
+			B: 'create:zinc_ingot'
+		}
+	)
+
 	// Splashing recipe to turn bone blocks into calcite
 	// Purely for convenience
 	event.recipes.create.splashing('calcite', 'bone_block')
