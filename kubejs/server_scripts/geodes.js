@@ -49,6 +49,6 @@ LootJS.modifiers(event => {
 ServerEvents.recipes(event => {
 
 	// Blast pyrite into iron: 
-	event.blasting('2x minecraft:iron_ingot', 'geodes:pyrite')
+	event.blasting('2x minecraft:iron_ingot', 'geodes:pyrite_chunk')
 
 });

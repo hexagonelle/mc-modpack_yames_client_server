@@ -32,6 +32,9 @@ ServerEvents.recipes(event => {
 		}
 	)
 
+	// blast zinc blocks
+	event.blasting("create:zinc_block", "create:raw_zinc_block")
+
 	// Splashing recipe to turn bone blocks into calcite
 	// Purely for convenience
 	event.recipes.create.splashing('calcite', 'bone_block')
