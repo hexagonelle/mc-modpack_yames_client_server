@@ -2926,6 +2926,10 @@ file = "kubejs/assets/kubejs/textures/item/litematic_staff.png"
 hash = "e40cd96833ab5b890888ffa783fa19ea2773a7bdfb951a7f5b6ba3db0bf6f50e"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/recall_gem.png"
+hash = "39ccad9b152db0e6995f6bd76b29d43ea6df81d60a39f7b13a4b670b8edd52e6"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/soul_lantern.png"
 hash = "af522e27edccf029ed46443d990ecadace87fbe87161c2926f938162783ede86"
 
@@ -2948,6 +2952,10 @@ hash = "55c1276e2a8f939508296a72c40280a5f2327edeac9cf5f96aeeefc35fdd19f5"
 [[files]]
 file = "kubejs/config/common.properties"
 hash = "63daee7d9e7c29b95a11ae2152674aa66f7f4c6d3a619cd1b8f83da59d839e8c"
+
+[[files]]
+file = "kubejs/custom-recallgem.js"
+hash = "ed31d6f30928b0af4eb913ad162386e958b2a361687665c955870418f5ed2681"
 
 [[files]]
 file = "kubejs/server_scripts/additionallights.js"
@@ -2999,7 +3007,7 @@ hash = "539af23628cc811dcd2961966f42e700fbac24ad463f904bba8420019eb10609"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
-hash = "ff26813bc48caaf9ddd76482355616cf8f7f147314a85b04a74eb85c1062edd4"
+hash = "92c8a10970cbf88b288b831551a0c7a848e0792b67ee157a246fe20e3a697c0f"
 
 [[files]]
 file = "kubejs/server_scripts/create_alexscaves.js"
@@ -3082,6 +3090,10 @@ file = "kubejs/server_scripts/custom-lanternhousing_realistictorches.js"
 hash = "39a6a0adc67afcfd416726be896e7bb815bf7c8e15e810bee6088fd5c405edd4"
 
 [[files]]
+file = "kubejs/server_scripts/custom-recallgem.js"
+hash = "39d4e6f5656e56269830832dad8f3ebe5bf2704566890e18f20e6db54d1830bb"
+
+[[files]]
 file = "kubejs/server_scripts/custom-witherskellytweaks.js"
 hash = "b64b68007402c492e47f0ff4016145a2d61569b7ae29540a9e565b87f4e48297"
 
@@ -3151,7 +3163,7 @@ hash = "621d58b63458f0540d6b9968e7c82854690654c33cfd2accdf57e210fd7149b8"
 
 [[files]]
 file = "kubejs/server_scripts/geodes.js"
-hash = "681892b18a4c2b0d5480efee2b83a01b081f703c5c130d9989b02a1e5e16e4dd"
+hash = "4bd18898d0272e65d282b290532c25dd9639c591a227b37b8a487906d6f621f9"
 
 [[files]]
 file = "kubejs/server_scripts/handcrafted.js"
@@ -3252,6 +3264,10 @@ hash = "49c6b671cf5aeb793c814926654ae80cac58179b44927a8e1015569d5e4f6bf9"
 [[files]]
 file = "kubejs/startup_scripts/custom-litematicstaff.js"
 hash = "dc4ee2cb355296519b90cdc99625887bdaf3867deb89c2c8f7c0b89e9e97eca6"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-recallgem.js"
+hash = "41f43a70f6ab7497cb1f502b1a285d6b253984eebee4886172c79470d0c68e6a"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-witherskellytweaks.js"
