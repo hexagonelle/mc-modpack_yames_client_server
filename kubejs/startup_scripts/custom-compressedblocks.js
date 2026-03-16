@@ -120,6 +120,11 @@ StartupEvents.registry("block", (event) => {
 			"stone",
 			"stone",
 			"pickaxe"
+		],[
+			"minecraft:bone",
+			"stone",
+			"stone",
+			"pickaxe"
 		]
 	];
 

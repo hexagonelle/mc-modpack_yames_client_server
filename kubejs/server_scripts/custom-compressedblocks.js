@@ -23,7 +23,8 @@ ServerEvents.recipes(event=> {
 		"minecraft:coarse_dirt",
 		"minecraft:smooth_basalt",
 		"minecraft:dripstone_block",
-		"minecraft:magma_block"
+		"minecraft:magma_block",
+		"minecraft:bone"
 	];
 
 	let compressLevel = [
