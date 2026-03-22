@@ -93,6 +93,11 @@ ServerEvents.recipes(event => {
 		}
 	)
 
+	event.smelting(
+		"minecraft:smooth_stone_slab",
+		"minecraft:stone_slab"
+	)
+
 	// Cheaper lanterns & Chains
 	event.remove({id:"minecraft:lantern"});
 	event.remove({id:"minecraft:soul_lantern"});
